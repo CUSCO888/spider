@@ -28,7 +28,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.email "cusco888@gmail.com"
+          git config --global user.email "cusco888@outlook.com"
           git config --global user.name "CUSCO888"
           git add output/*.m3u
           # 只有在有变动时才提交，防止报错
