@@ -19,16 +19,23 @@ def load_m3u_files(output_dir="output"):
             try:
                 with open(filepath, 'r', encoding='utf-8') as f:
                     lines = f.readlines()
+                current_extinf = None
                 current_name = None
                 for line in lines:
                     line = line.strip()
                     if line.startswith("#EXTINF"):
+                        current_extinf = line
                         parts = line.split(',')
                         if len(parts) > 1:
                             current_name = parts[-1].strip()
                     elif line and not line.startswith("#") and current_name:
-                        channels[current_name] = line
+                        # 存储为 { 频道名: { 'url': URL, 'extinf': 完整的EXTINF行 } }
+                        channels[current_name] = {
+                            'url': line,
+                            'extinf': current_extinf
+                        }
                         current_name = None
+                        current_extinf = None
                 files_data[filename] = channels
                 print(f"已加载 {filename}: 包含 {len(channels)} 个频道")
             except Exception as e:
