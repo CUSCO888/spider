@@ -1,94 +1,52 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CUSCO888/epg/master/guide.xml"
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中天新聞台.png" group-title="🍍台湾4GTV",中天新聞台
-http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇新聞台.png" group-title="🍍台湾4GTV",寰宇新聞台
-http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇新聞台灣台.png" group-title="🍍台湾4GTV",寰宇新聞台灣台
-http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/鏡電視新聞台.png" group-title="🍍台湾4GTV",鏡電視新聞台
-http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/東森新聞台.png" group-title="🍍台湾4GTV",東森新聞台
-http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/華視新聞.png" group-title="🍍台湾4GTV",華視新聞
-http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視新聞台.png" group-title="🍍台湾4GTV",民視新聞台
-http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/三立新聞iNEWS.png" group-title="🍍台湾4GTV",三立新聞iNEWS
-http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/東森財經新聞台.png" group-title="🍍台湾4GTV",東森財經新聞台
-http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視新聞台.png" group-title="🍍台湾4GTV",中視新聞台
-http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Bloomberg TV.png" group-title="🍍台湾4GTV",Bloomberg TV
-http://220.135.64.124:5050/4gtv-live059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/SBN全球財經台.png" group-title="🍍台湾4GTV",SBN全球財經台
-http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇財經台.png" group-title="🍍台湾4GTV",寰宇財經台
-http://220.135.64.124:5050/4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/FRANCE24 英文台.png" group-title="🍍台湾4GTV",FRANCE24 英文台
-http://220.135.64.124:5050/4gtv-live146/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/半島國際新聞台.png" group-title="🍍台湾4GTV",半島國際新聞台
-http://220.135.64.124:5050/litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/VOA美國之音.png" group-title="🍍台湾4GTV",VOA美國之音
-http://220.135.64.124:5050/litv-ftv03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CNBC Asia 財經台.png" group-title="🍍台湾4GTV",CNBC Asia 財經台
-http://220.135.64.124:5050/4gtv-live130/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/DW德國之聲.png" group-title="🍍台湾4GTV",DW德國之聲
-http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/華視新聞.png" group-title="🍍台湾4GTV",華視新聞
-http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/非凡新聞台.png" group-title="🍍台湾4GTV",非凡新聞台
-http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/非凡商業台.png" group-title="🍍台湾4GTV",非凡商業台
-http://220.135.64.124:5050/4gtv-4gtv048/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台視財經台.png" group-title="🍍台湾4GTV",台視財經台
-http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/鏡電視新聞台.png" group-title="🍍台湾4GTV",鏡電視新聞台
-http://220.135.64.124:5050/li-4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/東森新聞台.png" group-title="🍍台湾4GTV",東森新聞台
-http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視新聞台.png" group-title="🍍台湾4GTV",民視新聞台
-http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS新聞.png" group-title="🍍台湾4GTV",TVBS新聞
-http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/東森財經新聞台.png" group-title="🍍台湾4GTV",東森財經新聞台
-http://220.135.64.124:5050/li-4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視新聞台.png" group-title="🍍台湾4GTV",中視新聞台
-http://220.135.64.124:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中天新聞台.png" group-title="🍍台湾4GTV",中天新聞台
-http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇新聞台.png" group-title="🍍台湾4GTV",寰宇新聞台
-http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇新聞台灣台.png" group-title="🍍台湾4GTV",寰宇新聞台灣台
-http://220.135.64.124:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇財經台.png" group-title="🍍台湾4GTV",寰宇財經台
-http://220.135.64.124:5050/li-4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/半島國際新聞台.png" group-title="🍍台湾4GTV",半島國際新聞台
-http://220.135.64.124:5050/li-litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/VOA美國之音.png" group-title="🍍台湾4GTV",VOA美國之音
-http://220.135.64.124:5050/li-litv-ftv03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台視新聞台.png" group-title="🍍台湾4GTV",台視新聞台
-http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/第1商業台.png" group-title="🍍台湾4GTV",第1商業台
-http://220.135.64.124:5050/li-4gtv-4gtv104/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台視新聞台.png" group-title="🍍台湾4GTV",台視新聞台
-http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視新聞台.png" group-title="🍍台湾4GTV",中視新聞台
-http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/華視新聞.png" group-title="🍍台湾4GTV",華視新聞
-http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+#EXTM3U
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中天新聞台.png" group-title="🍍台湾4GTV",中天新聞台
 http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇新聞台.png" group-title="🍍台湾4GTV",寰宇新聞台
 http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇新聞台灣台.png" group-title="🍍台湾4GTV",寰宇新聞台灣台
 http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇財經台.png" group-title="🍍台湾4GTV",寰宇財經台
-http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/第1商業台.png" group-title="🍍台湾4GTV",第1商業台
-http://220.135.64.124:5050/4gtv-4gtv104/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/鏡電視新聞台.png" group-title="🍍台湾4GTV",鏡電視新聞台
+http://220.135.64.124:5050/li-4gtv-4gtv075/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/東森新聞台.png" group-title="🍍台湾4GTV",東森新聞台
+http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/華視新聞.png" group-title="🍍台湾4GTV",華視新聞
+http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視新聞台.png" group-title="🍍台湾4GTV",民視新聞台
+http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/三立新聞iNEWS.png" group-title="🍍台湾4GTV",三立新聞iNEWS
 http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/東森財經新聞台.png" group-title="🍍台湾4GTV",東森財經新聞台
+http://220.135.64.124:5050/li-4gtv-4gtv153/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視新聞台.png" group-title="🍍台湾4GTV",中視新聞台
+http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Bloomberg TV.png" group-title="🍍台湾4GTV",Bloomberg TV
+http://220.135.64.124:5050/4gtv-live059/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/SBN全球財經台.png" group-title="🍍台湾4GTV",SBN全球財經台
+http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/寰宇財經台.png" group-title="🍍台湾4GTV",寰宇財經台
+http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/FRANCE24 英文台.png" group-title="🍍台湾4GTV",FRANCE24 英文台
+http://220.135.64.124:5050/4gtv-live146/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/半島國際新聞台.png" group-title="🍍台湾4GTV",半島國際新聞台
+http://220.135.64.124:5050/li-litv-ftv10/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/VOA美國之音.png" group-title="🍍台湾4GTV",VOA美國之音
+http://220.135.64.124:5050/li-litv-ftv03/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CNBC Asia 財經台.png" group-title="🍍台湾4GTV",CNBC Asia 財經台
+http://220.135.64.124:5050/4gtv-live130/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/DW德國之聲.png" group-title="🍍台湾4GTV",DW德國之聲
+http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/非凡新聞台.png" group-title="🍍台湾4GTV",非凡新聞台
+http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/非凡商業台.png" group-title="🍍台湾4GTV",非凡商業台
+http://220.135.64.124:5050/4gtv-4gtv048/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台視財經台.png" group-title="🍍台湾4GTV",台視財經台
+http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS新聞.png" group-title="🍍台湾4GTV",TVBS新聞
+http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台視新聞台.png" group-title="🍍台湾4GTV",台視新聞台
+http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/第1商業台.png" group-title="🍍台湾4GTV",第1商業台
+http://220.135.64.124:5050/4gtv-4gtv104/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="倪珍播新聞" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/倪珍播新聞.png" group-title="🍍台湾4GTV",倪珍播新聞
 http://220.135.64.124:5050/nnews-zh/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="倪珍越語新聞" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/倪珍越語新聞.png" group-title="🍍台湾4GTV",倪珍越語新聞
@@ -96,67 +54,25 @@ http://220.135.64.124:5050/nnews-vn/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="倪珍報氣象" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/倪珍報氣象.png" group-title="🍍台湾4GTV",倪珍報氣象
 http://220.135.64.124:5050/nnews-wf/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視經典台.png" group-title="🍍台湾4GTV",中視經典台
-http://220.135.64.124:5050/4gtv-4gtv080/index.m3u8?proxy=true
+http://220.135.64.124:5050/li-4gtv-4gtv080/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ROCK Entertainment.png" group-title="🍍台湾4GTV",ROCK Entertainment
 http://220.135.64.124:5050/4gtv-live080/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/公視戲劇.png" group-title="🍍台湾4GTV",公視戲劇
-http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
+http://220.135.64.124:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視影劇台.png" group-title="🍍台湾4GTV",民視影劇台
-http://220.135.64.124:5050/litv-ftv09/index.m3u8?proxy=true
+http://220.135.64.124:5050/li-litv-ftv09/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="HITS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/HITS頻道.png" group-title="🍍台湾4GTV",HITS頻道
 http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="霹靂布袋戲" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/霹靂布袋戲.png" group-title="🍍台湾4GTV",霹靂布袋戲
 http://220.135.64.124:5050/4gtv-live145/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天戲劇台.png" group-title="🍍台湾4GTV",靖天戲劇台
-http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
+http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖洋戲劇台.png" group-title="🍍台湾4GTV",靖洋戲劇台
-http://220.135.64.124:5050/4gtv-4gtv045/index.m3u8?proxy=true
+http://220.135.64.124:5050/li-4gtv-4gtv045/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/金光布袋戲.png" group-title="🍍台湾4GTV",金光布袋戲
 http://220.135.64.124:5050/4gtv-live144/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ROCK Action.png" group-title="🍍台湾4GTV",ROCK Action
 http://220.135.64.124:5050/4gtv-live138/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/采昌影劇台.png" group-title="🍍台湾4GTV",采昌影劇台
-http://220.135.64.124:5050/4gtv-4gtv049/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天映畫.png" group-title="🍍台湾4GTV",靖天映畫
-http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天電影台.png" group-title="🍍台湾4GTV",靖天電影台
-http://220.135.64.124:5050/4gtv-4gtv061/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/影迷數位電影台.png" group-title="🍍台湾4GTV",影迷數位電影台
-http://220.135.64.124:5050/4gtv-4gtv011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/amc電影台.png" group-title="🍍台湾4GTV",amc電影台
-http://220.135.64.124:5050/4gtv-4gtv017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CinemaWorld.png" group-title="🍍台湾4GTV",CinemaWorld
-http://220.135.64.124:5050/4gtv-live069/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/My Cinema Europe HD 我的歐洲電影.png" group-title="🍍台湾4GTV",My Cinema Europe HD 我的歐洲電影
-http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS台劇台.png" group-title="🍍台湾4GTV",TVBS台劇台
-http://220.135.64.124:5050/4gtv-live088/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/經典電影台.png" group-title="🍍台湾4GTV",經典電影台
-http://220.135.64.124:5050/4gtv-live021/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="戲劇免費看 1台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/戲劇免費看 1台.png" group-title="🍍台湾4GTV",戲劇免費看 1台
-http://220.135.64.124:5050/4gtv-live010/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視經典台.png" group-title="🍍台湾4GTV",中視經典台
-http://220.135.64.124:5050/li-4gtv-4gtv080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/龍華洋片HD.png" group-title="🍍台湾4GTV",龍華洋片HD
-http://220.135.64.124:5050/li-litv-longturn02/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/龍華電影台.png" group-title="🍍台湾4GTV",龍華電影台
-http://220.135.64.124:5050/li-litv-longturn03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/龍華日韓台.png" group-title="🍍台湾4GTV",龍華日韓台
-http://220.135.64.124:5050/li-litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/龍華偶像台.png" group-title="🍍台湾4GTV",龍華偶像台
-http://220.135.64.124:5050/li-litv-longturn12/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/龍華戲劇台.png" group-title="🍍台湾4GTV",龍華戲劇台
-http://220.135.64.124:5050/li-litv-longturn18/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/龍華經典HD.png" group-title="🍍台湾4GTV",龍華經典HD
-http://220.135.64.124:5050/li-litv-longturn21/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/公視戲劇.png" group-title="🍍台湾4GTV",公視戲劇
-http://220.135.64.124:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視影劇台.png" group-title="🍍台湾4GTV",民視影劇台
-http://220.135.64.124:5050/li-litv-ftv09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天戲劇台.png" group-title="🍍台湾4GTV",靖天戲劇台
-http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖洋戲劇台.png" group-title="🍍台湾4GTV",靖洋戲劇台
-http://220.135.64.124:5050/li-4gtv-4gtv045/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/采昌影劇台.png" group-title="🍍台湾4GTV",采昌影劇台
 http://220.135.64.124:5050/li-4gtv-4gtv049/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天映畫.png" group-title="🍍台湾4GTV",靖天映畫
@@ -167,10 +83,16 @@ http://220.135.64.124:5050/li-4gtv-4gtv061/index.m3u8?proxy=true
 http://220.135.64.124:5050/li-4gtv-4gtv011/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/amc電影台.png" group-title="🍍台湾4GTV",amc電影台
 http://220.135.64.124:5050/li-4gtv-4gtv017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台灣戲劇HD.png" group-title="🍍台湾4GTV",台灣戲劇HD
-http://220.135.64.124:5050/li-litv-longturn22/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台灣戲劇HD.png" group-title="🍍台湾4GTV",台灣戲劇HD
-http://220.135.64.124:5050/litv-longturn22/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CinemaWorld.png" group-title="🍍台湾4GTV",CinemaWorld
+http://220.135.64.124:5050/4gtv-live069/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/My Cinema Europe HD 我的歐洲電影.png" group-title="🍍台湾4GTV",My Cinema Europe HD 我的歐洲電影
+http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS台劇台.png" group-title="🍍台湾4GTV",TVBS台劇台
+http://220.135.64.124:5050/4gtv-live088/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/經典電影台.png" group-title="🍍台湾4GTV",經典電影台
+http://220.135.64.124:5050/4gtv-live021/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="戲劇免費看 1台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/戲劇免費看 1台.png" group-title="🍍台湾4GTV",戲劇免費看 1台
+http://220.135.64.124:5050/4gtv-live010/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/龍華洋片HD.png" group-title="🍍台湾4GTV",龍華洋片HD
 http://220.135.64.124:5050/litv-longturn02/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/龍華電影台.png" group-title="🍍台湾4GTV",龍華電影台
@@ -183,68 +105,22 @@ http://220.135.64.124:5050/litv-longturn12/index.m3u8?proxy=true
 http://220.135.64.124:5050/litv-longturn18/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/龍華經典HD.png" group-title="🍍台湾4GTV",龍華經典HD
 http://220.135.64.124:5050/litv-longturn21/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台灣戲劇HD.png" group-title="🍍台湾4GTV",台灣戲劇HD
+http://220.135.64.124:5050/litv-longturn22/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視第一台.png" group-title="🍍台湾4GTV",民視第一台
-http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
+http://220.135.64.124:5050/li-4gtv-4gtv003/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視台灣台.png" group-title="🍍台湾4GTV",民視台灣台
-http://220.135.64.124:5050/4gtv-4gtv001/index.m3u8?proxy=true
+http://220.135.64.124:5050/li-4gtv-4gtv001/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視.png" group-title="🍍台湾4GTV",民視
 http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/大愛電視.png" group-title="🍍台湾4GTV",大愛電視
 http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視.png" group-title="🍍台湾4GTV",中視
-http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
+http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/華視.png" group-title="🍍台湾4GTV",華視
-http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
+http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/三立綜合台HD.png" group-title="🍍台湾4GTV",三立綜合台HD
 http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/客家電視台.png" group-title="🍍台湾4GTV",客家電視台
-http://220.135.64.124:5050/4gtv-4gtv043/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視菁采台.png" group-title="🍍台湾4GTV",中視菁采台
-http://220.135.64.124:5050/4gtv-4gtv064/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天綜合台.png" group-title="🍍台湾4GTV",靖天綜合台
-http://220.135.64.124:5050/4gtv-4gtv046/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天日本台.png" group-title="🍍台湾4GTV",靖天日本台
-http://220.135.64.124:5050/4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/新唐人亞太台.png" group-title="🍍台湾4GTV",新唐人亞太台
-http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ARIRANG阿里郎頻道.png" group-title="🍍台湾4GTV",ARIRANG阿里郎頻道
-http://220.135.64.124:5050/4gtv-4gtv079/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/原住民族電視台.png" group-title="🍍台湾4GTV",原住民族電視台
-http://220.135.64.124:5050/4gtv-live014/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS.png" group-title="🍍台湾4GTV",TVBS
-http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天育樂台.png" group-title="🍍台湾4GTV",靖天育樂台
-http://220.135.64.124:5050/4gtv-4gtv062/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/KLT-靖天國際台.png" group-title="🍍台湾4GTV",KLT-靖天國際台
-http://220.135.64.124:5050/4gtv-4gtv063/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Nice TV 靖天歡樂台.png" group-title="🍍台湾4GTV",Nice TV 靖天歡樂台
-http://220.135.64.124:5050/4gtv-4gtv054/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天資訊台.png" group-title="🍍台湾4GTV",靖天資訊台
-http://220.135.64.124:5050/4gtv-4gtv065/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/韓國娛樂台 KMTV.png" group-title="🍍台湾4GTV",韓國娛樂台 KMTV
-http://220.135.64.124:5050/4gtv-4gtv016/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/好消息.png" group-title="🍍台湾4GTV",好消息
-http://220.135.64.124:5050/litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/好消息2台.png" group-title="🍍台湾4GTV",好消息2台
-http://220.135.64.124:5050/litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/大愛二台.png" group-title="🍍台湾4GTV",大愛二台
-http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/人間衛視.png" group-title="🍍台湾4GTV",人間衛視
-http://220.135.64.124:5050/4gtv-live008/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/國會頻道1.png" group-title="🍍台湾4GTV",國會頻道1
-http://220.135.64.124:5050/4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/國會頻道2.png" group-title="🍍台湾4GTV",國會頻道2
-http://220.135.64.124:5050/4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視第一台.png" group-title="🍍台湾4GTV",民視第一台
-http://220.135.64.124:5050/li-4gtv-4gtv003/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視台灣台.png" group-title="🍍台湾4GTV",民視台灣台
-http://220.135.64.124:5050/li-4gtv-4gtv001/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視.png" group-title="🍍台湾4GTV",中視
-http://220.135.64.124:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/華視.png" group-title="🍍台湾4GTV",華視
-http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中天亞洲台.png" group-title="🍍台湾4GTV",中天亞洲台
-http://220.135.64.124:5050/4gtv-4gtv109/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/客家電視台.png" group-title="🍍台湾4GTV",客家電視台
 http://220.135.64.124:5050/li-4gtv-4gtv043/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視菁采台.png" group-title="🍍台湾4GTV",中視菁采台
@@ -253,8 +129,12 @@ http://220.135.64.124:5050/li-4gtv-4gtv064/index.m3u8?proxy=true
 http://220.135.64.124:5050/li-4gtv-4gtv046/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天日本台.png" group-title="🍍台湾4GTV",靖天日本台
 http://220.135.64.124:5050/li-4gtv-4gtv047/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/新唐人亞太台.png" group-title="🍍台湾4GTV",新唐人亞太台
+http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ARIRANG阿里郎頻道.png" group-title="🍍台湾4GTV",ARIRANG阿里郎頻道
 http://220.135.64.124:5050/li-4gtv-4gtv079/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/原住民族電視台.png" group-title="🍍台湾4GTV",原住民族電視台
+http://220.135.64.124:5050/4gtv-live014/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS.png" group-title="🍍台湾4GTV",TVBS
 http://220.135.64.124:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天育樂台.png" group-title="🍍台湾4GTV",靖天育樂台
@@ -268,55 +148,21 @@ http://220.135.64.124:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/韓國娛樂台 KMTV.png" group-title="🍍台湾4GTV",韓國娛樂台 KMTV
 http://220.135.64.124:5050/li-4gtv-4gtv016/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/好消息.png" group-title="🍍台湾4GTV",好消息
-http://220.135.64.124:5050/li-litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/好消息2台.png" group-title="🍍台湾4GTV",好消息2台
-http://220.135.64.124:5050/li-litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/國會頻道1.png" group-title="🍍台湾4GTV",國會頻道1
-http://220.135.64.124:5050/li-4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/國會頻道2.png" group-title="🍍台湾4GTV",國會頻道2
-http://220.135.64.124:5050/li-4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台視.png" group-title="🍍台湾4GTV",台視
-http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台視.png" group-title="🍍台湾4GTV",台視
-http://220.135.64.124:5050/4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中視.png" group-title="🍍台湾4GTV",中視
-http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/華視.png" group-title="🍍台湾4GTV",華視
-http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/好消息.png" group-title="🍍台湾4GTV",好消息
 http://220.135.64.124:5050/of-litv-ftv16/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/好消息2台.png" group-title="🍍台湾4GTV",好消息2台
 http://220.135.64.124:5050/of-litv-ftv17/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/大愛二台.png" group-title="🍍台湾4GTV",大愛二台
+http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/人間衛視.png" group-title="🍍台湾4GTV",人間衛視
+http://220.135.64.124:5050/4gtv-live008/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/國會頻道1.png" group-title="🍍台湾4GTV",國會頻道1
 http://220.135.64.124:5050/of-4gtv-4gtv084/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/國會頻道2.png" group-title="🍍台湾4GTV",國會頻道2
 http://220.135.64.124:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="八大綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/八大綜藝台.png" group-title="🍍台湾4GTV",八大綜藝台
-http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS精采台.png" group-title="🍍台湾4GTV",TVBS精采台
-http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/愛爾達娛樂台.png" group-title="🍍台湾4GTV",愛爾達娛樂台
-http://220.135.64.124:5050/4gtv-4gtv070/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視綜藝台.png" group-title="🍍台湾4GTV",民視綜藝台
-http://220.135.64.124:5050/4gtv-4gtv004/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/豬哥亮歌廳秀.png" group-title="🍍台湾4GTV",豬哥亮歌廳秀
-http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS歡樂台.png" group-title="🍍台湾4GTV",TVBS歡樂台
-http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/電影原聲台CMusic.png" group-title="🍍台湾4GTV",電影原聲台CMusic
-http://220.135.64.124:5050/4gtv-live031/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TRACE Urban.png" group-title="🍍台湾4GTV",TRACE Urban
-http://220.135.64.124:5050/4gtv-4gtv082/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MTV Live HD 音樂頻道.png" group-title="🍍台湾4GTV",MTV Live HD 音樂頻道
-http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Mezzo Live HD.png" group-title="🍍台湾4GTV",Mezzo Live HD
-http://220.135.64.124:5050/4gtv-4gtv083/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CLASSICA 古典樂.png" group-title="🍍台湾4GTV",CLASSICA 古典樂
-http://220.135.64.124:5050/4gtv-4gtv059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/八大精彩台.png" group-title="🍍台湾4GTV",八大精彩台
-http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TVBS綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS綜藝台.png" group-title="🍍台湾4GTV",TVBS綜藝台
-http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中天亞洲台.png" group-title="🍍台湾4GTV",中天亞洲台
+http://220.135.64.124:5050/4gtv-4gtv109/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台視.png" group-title="🍍台湾4GTV",台視
+http://220.135.64.124:5050/4gtv-4gtv066/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="八大綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/八大綜藝台.png" group-title="🍍台湾4GTV",八大綜藝台
 http://220.135.64.124:5050/li-4gtv-4gtv039/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS精采台.png" group-title="🍍台湾4GTV",TVBS精采台
@@ -329,14 +175,20 @@ http://220.135.64.124:5050/li-4gtv-4gtv004/index.m3u8?proxy=true
 http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS歡樂台.png" group-title="🍍台湾4GTV",TVBS歡樂台
 http://220.135.64.124:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/電影原聲台CMusic.png" group-title="🍍台湾4GTV",電影原聲台CMusic
+http://220.135.64.124:5050/4gtv-live031/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TRACE Urban.png" group-title="🍍台湾4GTV",TRACE Urban
 http://220.135.64.124:5050/li-4gtv-4gtv082/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MTV Live HD 音樂頻道.png" group-title="🍍台湾4GTV",MTV Live HD 音樂頻道
+http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Mezzo Live HD.png" group-title="🍍台湾4GTV",Mezzo Live HD
 http://220.135.64.124:5050/li-4gtv-4gtv083/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CLASSICA 古典樂.png" group-title="🍍台湾4GTV",CLASSICA 古典樂
 http://220.135.64.124:5050/li-4gtv-4gtv059/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/八大精彩台.png" group-title="🍍台湾4GTV",八大精彩台
 http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TVBS綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS綜藝台.png" group-title="🍍台湾4GTV",TVBS綜藝台
+http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Global Trekker.png" group-title="🍍台湾4GTV",Global Trekker
 http://220.135.64.124:5050/4gtv-live112/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="Lifetime 娛樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Lifetime 娛樂頻道.png" group-title="🍍台湾4GTV",Lifetime 娛樂頻道
@@ -346,17 +198,17 @@ http://220.135.64.124:5050/4gtv-live096/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="Pet Club TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Pet Club TV.png" group-title="🍍台湾4GTV",Pet Club TV
 http://220.135.64.124:5050/4gtv-live110/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視旅遊台.png" group-title="🍍台湾4GTV",民視旅遊台
-http://220.135.64.124:5050/litv-ftv07/index.m3u8?proxy=true
+http://220.135.64.124:5050/li-litv-ftv07/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="滾動力rollor" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/滾動力rollor.png" group-title="🍍台湾4GTV",滾動力rollor
 http://220.135.64.124:5050/4gtv-live012/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/亞洲旅遊台.png" group-title="🍍台湾4GTV",亞洲旅遊台
-http://220.135.64.124:5050/4gtv-4gtv076/index.m3u8?proxy=true
+http://220.135.64.124:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="fun探索娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/fun探索娛樂台.png" group-title="🍍台湾4GTV",fun探索娛樂台
 http://220.135.64.124:5050/4gtv-live011/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/幸福空間居家台.png" group-title="🍍台湾4GTV",幸福空間居家台
 http://220.135.64.124:5050/4gtv-live206/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Love Nature.png" group-title="🍍台湾4GTV",Love Nature
-http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
+http://tl.061833.xyz/tl/lovenaturehd
 #EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/愛爾達生活旅遊台.png" group-title="🍍台湾4GTV",愛爾達生活旅遊台
 http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/LUXE TV Channel.png" group-title="🍍台湾4GTV",LUXE TV Channel
@@ -365,26 +217,14 @@ http://220.135.64.124:5050/4gtv-live121/index.m3u8?proxy=true
 http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MagellanTV頻道 (麥哲倫頻道).png" group-title="🍍台湾4GTV",MagellanTV頻道 (麥哲倫頻道)
 http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視旅遊台.png" group-title="🍍台湾4GTV",民視旅遊台
-http://220.135.64.124:5050/li-litv-ftv07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/亞洲旅遊台.png" group-title="🍍台湾4GTV",亞洲旅遊台
-http://220.135.64.124:5050/li-4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Smart知識台.png" group-title="🍍台湾4GTV",Smart知識台
-http://220.135.64.124:5050/li-litv-longturn19/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/亞洲旅遊台.png" group-title="🍍台湾4GTV",亞洲旅遊台
-http://220.135.64.124:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Smart知識台.png" group-title="🍍台湾4GTV",Smart知識台
 http://220.135.64.124:5050/litv-longturn19/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中天新闻.png" group-title="🍍台湾4GTV",中天新闻
-http://hls-pull-usmanriaz.speedws.com/live/中天新闻台.flv
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中天新闻.png" group-title="🍍台湾4GTV",中天新闻
 http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 #EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/镜新闻.png" group-title="🍍台湾4GTV",镜新闻
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民视新闻.png" group-title="🍍台湾4GTV",民视新闻
-https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官网
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民视新闻.png" group-title="🍍台湾4GTV",民视新闻
-http://74.91.26.218:82/live/ftvnews.m3u8
+http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台视新闻.png" group-title="🍍台湾4GTV",台视新闻
 http://74.91.26.218:82/live/ttvnews.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中视新闻.png" group-title="🍍台湾4GTV",中视新闻
@@ -395,24 +235,22 @@ http://74.91.26.218:82/live/ctsnews.m3u8
 http://74.91.26.218:82/live/ftvdy.m3u8
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民视台湾.png" group-title="🍍台湾4GTV",民视台湾
 http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民视新闻.png" group-title="🍍台湾4GTV",民视新闻
-http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中视.png" group-title="🍍台湾4GTV",中视
-http://211.72.174.95:8113/0.ts
+rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/华视.png" group-title="🍍台湾4GTV",华视
-http://211.72.174.95:8114/0.ts
+rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/公视.png" group-title="🍍台湾4GTV",公视
 http://211.72.174.95:8116/0.ts
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民视.png" group-title="🍍台湾4GTV",民视
-http://211.72.174.95:8115/0.ts
+rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台视.png" group-title="🍍台湾4GTV",台视
-http://211.72.174.95:8112/0.ts
+rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民視綜藝.png" group-title="🍍台湾4GTV",民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TVBS精采.png" group-title="🍍台湾4GTV",TVBS精采
 http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-name="台视综合" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台视综合.png" group-title="🍍台湾4GTV",台视综合
-http://iptv.4666888.xyz/iptv2A.php?id=51
+http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/八度空间.png" group-title="🍍台湾4GTV",八度空间
 http://iptv.4666888.xyz/iptv2A.php?id=52
 #EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民视影剧.png" group-title="🍍台湾4GTV",民视影剧
@@ -421,22 +259,12 @@ http://iptv.4666888.xyz/iptv2A.php?id=53
 http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中视菁采.png" group-title="🍍台湾4GTV",中视菁采
 http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台视综合.png" group-title="🍍台湾4GTV",台视综合
-http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 tvg-name="小公视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/小公视.png" group-title="🍍台湾4GTV",小公视
 http://74.91.26.218:82/live/ptsse.m3u8
 #EXTINF:-1 tvg-name="华视体育" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/华视体育.png" group-title="🍍台湾4GTV",华视体育
 http://74.91.26.218:82/live/ctsjy.m3u8
 #EXTINF:-1 tvg-name="公视台语" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/公视台语.png" group-title="🍍台湾4GTV",公视台语
 http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/民视.png" group-title="🍍台湾4GTV",民视
-rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/台视.png" group-title="🍍台湾4GTV",台视
-rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中视.png" group-title="🍍台湾4GTV",中视
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/华视.png" group-title="🍍台湾4GTV",华视
-rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/纬来体育.png" group-title="🍍台湾4GTV",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/纬来育乐.png" group-title="🍍台湾4GTV",纬来育乐
@@ -471,8 +299,6 @@ https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 #EXTINF:-1 tvg-name="新唐人" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/新唐人.png" group-title="🍍台湾4GTV",新唐人
 https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Love Nature.png" group-title="🍍台湾4GTV",Love Nature
-http://tl.061833.xyz/tl/lovenaturehd
 #EXTINF:-1 tvg-name="Wild TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Wild TV.png" group-title="🍍台湾4GTV",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BBC EARTH.png" group-title="🍍台湾4GTV",BBC EARTH
@@ -481,8 +307,6 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 tvg-name="生命电视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/生命电视.png" group-title="🍍台湾4GTV",生命电视
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-#EXTINF:-1 tvg-name="唯心电视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/唯心电视.png" group-title="🍍台湾4GTV",唯心电视
-https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="唯心电视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/唯心电视.png" group-title="🍍台湾4GTV",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
@@ -525,16 +349,16 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://tb.zbds.top/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
+#EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语" tvg-logo="https://tb.zbds.top/logo/CGTN法语.png" group-title="央视频道",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语" tvg-logo="https://tb.zbds.top/logo/CGTN西语.png" group-title="央视频道",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语" tvg-logo="https://tb.zbds.top/logo/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CCTV6.png" group-title="🔥港台电影",CCTV6
-http://livenico.sheng17.site/php/aikan.php?id=cctv6&/PLTV/hls.smil.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="215" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道",CCTV6
+http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="256" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="235" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道",CCTV2
@@ -543,12 +367,10 @@ http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
 http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="240" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道",CCTV4
 http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-id="253" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="体育频道", CCTV5
+https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="115" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-id="215" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道",CCTV6
-http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="220" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道",CCTV7
 http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="206" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="央视频道",CCTV8
@@ -565,8 +387,8 @@ http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
 http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV14.png" group-title="央视频道",CCTV14
 http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-id="209" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="央视频道",CCTV15
-http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="音乐频道", CCTV15
+http://222.134.245.16:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视频道",CCTV16
 http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="135" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道",CCTV17
@@ -585,16 +407,8 @@ http://hmfs.f3322.net:3388/hls/21/index.m3u8
 http://27.41.245.32:801/hls/906/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN.png" group-title="央视频道",CGTN
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://tb.zbds.top/logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语" tvg-logo="https://tb.zbds.top/logo/CGTN法语.png" group-title="央视频道",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语" tvg-logo="https://tb.zbds.top/logo/CGTN西语.png" group-title="央视频道",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语" tvg-logo="https://tb.zbds.top/logo/CGTN阿语.png" group-title="央视频道",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://tb.zbds.top/logo/CETV2.png" group-title="央视频道",CETV2
 http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20250903090033bf55eab2bb984fe0b4ac863e60d28ac6&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebfbdc6c83654112720d2b5599373223&ddCalcu=3e2bv2fa3ba7da3c969c5853b625d4012172&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV文化精品" tvg-id="CCTV文化精品" tvg-logo="https://tb.zbds.top/logo/CCTV文化精品.png" group-title="央视频道",CCTV文化精品
@@ -615,10 +429,6 @@ http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
 http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-id="高尔夫网球" tvg-logo="https://tb.zbds.top/logo/高尔夫网球.png" group-title="央视频道",高尔夫网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="体育频道",CCTV5
-https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
-#EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="音乐频道",CCTV15
-http://222.134.245.16:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="146" tvg-logo="https://tb.zbds.top/logo/安徽卫视.png" group-title="卫视频道", 安徽卫视
 http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="287" tvg-logo="https://tb.zbds.top/logo/北京卫视.png" group-title="卫视频道", 北京卫视
@@ -665,8 +475,8 @@ http://120.76.248.139/live/bfgd/4200000122.m3u8
 http://58.57.40.22:9901/tsfile/live/1057_1.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/三沙卫视.png" group-title="卫视频道", 三沙卫视
 https://srs.ssws.tv/video/sstv-10/index.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/厦门卫视.png" group-title="卫视频道", 厦门卫视
-http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="厦门卫视" tvg-id="厦门卫视" tvg-logo="https://tb.zbds.top/logo/厦门卫视.png" group-title="地方频道", 厦门卫视
+http://183.11.239.36:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="山东卫视" tvg-logo="https://tb.zbds.top/logo/山东卫视.png" group-title="卫视频道", 山东卫视
 http://222.169.85.8:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-id="山西卫视" tvg-logo="https://tb.zbds.top/logo/山西卫视.png" group-title="卫视频道", 山西卫视
@@ -677,28 +487,26 @@ http://23.237.228.134/live6/sichuan.m3u8
 http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-id="128" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="卫视频道", 四川卫视
 http://58.57.40.22:9901/tsfile/live/1046_1.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="144" tvg-logo="https://tb.zbds.top/logo/天津卫视.png" group-title="卫视频道", 天津卫视
-http://58.57.40.22:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-id="天津卫视" tvg-logo="https://tb.zbds.top/logo/天津卫视.png" group-title="地方频道", 天津卫视
+http://183.11.239.36:808/hls/42/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-id="西藏卫视" tvg-logo="https://tb.zbds.top/logo/西藏卫视.png" group-title="卫视频道", 西藏卫视
 http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="75" tvg-logo="https://tb.zbds.top/logo/新疆卫视.png" group-title="卫视频道", 新疆卫视
 http://58.57.40.22:9901/tsfile/live/1055_1.m3u8
-#EXTINF:-1 tvg-name="延边卫视" tvg-id="延边卫视" tvg-logo="https://tb.zbds.top/logo/延边卫视.png" group-title="卫视频道", 延边卫视
-http://120.76.248.139/live/bfgd/4200000117.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-id="延边卫视" tvg-logo="https://tb.zbds.top/logo/延边卫视.png" group-title="地方频道", 延边卫视
+http://gmxw.7766.org:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-id="96" tvg-logo="https://tb.zbds.top/logo/云南卫视.png" group-title="卫视频道", 云南卫视
 http://58.57.40.22:9901/tsfile/live/1047_1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="卫视频道", 浙江卫视
 http://23.237.228.134/live6/zhejiang.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="https://tb.zbds.top/logo/重庆卫视.png" group-title="卫视频道", 重庆卫视
 http://23.237.228.134/live6/chongqing.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/东方卫视.png" group-title="卫视频道", 东方卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="140" tvg-logo="https://tb.zbds.top/logo/黑龙江卫视.png" group-title="卫视频道", 黑龙江卫视
 http://58.57.40.22:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="内蒙古卫视" tvg-logo="https://tb.zbds.top/logo/内蒙古卫视.png" group-title="卫视频道", 内蒙古卫视
 http://23.237.228.134/live8/neimenggu.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="卫视频道", 山东教育
-https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="地方频道", 山东教育
+http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-id="东方卫视4K" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="卫视频道", 东方卫视4K
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="苏州4K" tvg-id="苏州4K" tvg-logo="https://tb.zbds.top/logo/苏州4K.png" group-title="卫视频道", 苏州4K
@@ -941,8 +749,8 @@ https://other.ottiptv.cc/cwjd.m3u8
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教8K" tvg-id="北京纪实科教8K" tvg-logo="https://tb.zbds.top/logo/北京纪实科教8K.png" group-title="数字频道", 北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市.png" group-title="数字频道", 南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市.png" group-title="地方频道", 南国都市
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://tb.zbds.top/logo/四川科教.png" group-title="数字频道", 四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="新视觉" tvg-id="新视觉" tvg-logo="https://tb.zbds.top/logo/新视觉.png" group-title="数字频道", 新视觉
@@ -985,18 +793,10 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="61" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="地方频道", 广东珠江
 http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-id="厦门卫视" tvg-logo="https://tb.zbds.top/logo/厦门卫视.png" group-title="地方频道", 厦门卫视
-http://183.11.239.36:808/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="天津卫视" tvg-logo="https://tb.zbds.top/logo/天津卫视.png" group-title="地方频道", 天津卫视
-http://183.11.239.36:808/hls/42/index.m3u8
-#EXTINF:-1 tvg-name="延边卫视" tvg-id="延边卫视" tvg-logo="https://tb.zbds.top/logo/延边卫视.png" group-title="地方频道", 延边卫视
-http://gmxw.7766.org:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-id="安多卫视" tvg-logo="https://tb.zbds.top/logo/安多卫视.png" group-title="地方频道", 安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-id="大湾区卫视" tvg-logo="https://tb.zbds.top/logo/大湾区卫视.png" group-title="地方频道", 大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="地方频道", 山东教育
-http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19
 #EXTINF:-1 tvg-name="广东体育" tvg-id="5" tvg-logo="https://tb.zbds.top/logo/广东体育.png" group-title="地方频道", 广东体育
 http://cdn2.132.us.kg/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://tb.zbds.top/logo/快乐垂钓.png" group-title="地方频道", 快乐垂钓
@@ -1123,8 +923,6 @@ https://mgtv.ottiptv.cc/migu/838151753.m3u8?migutoken=e1c3c9e2e67541d90ea94c4c91
 http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-id="南京新闻综合" tvg-logo="https://tb.zbds.top/logo/南京新闻综合.png" group-title="地方频道", 南京新闻综合
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-#EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市.png" group-title="地方频道", 南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-name="南宁都市生活" tvg-id="南宁都市生活" tvg-logo="https://tb.zbds.top/logo/南宁都市生活.png" group-title="地方频道", 南宁都市生活
 http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-id="南通新闻综合" tvg-logo="https://tb.zbds.top/logo/南通新闻综合.png" group-title="地方频道", 南通新闻综合
@@ -1817,10 +1615,6 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d3
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 #EXTINF:-1 tvg-name="龙井" tvg-id="龙井" tvg-logo="https://tb.zbds.top/logo/龙井.png" group-title="纪录频道", 龙井
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="体育频道", CCTV5
-https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
-#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://tb.zbds.top/logo/五星体育.png" group-title="体育频道", 五星体育
-https://other.ottiptv.cc/wxty.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://tb.zbds.top/logo/五星体育.png" group-title="体育频道", 五星体育
 https://other.ottiptv.cc/wxty.m3u8
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-id="JJ斗地主" tvg-logo="https://tb.zbds.top/logo/JJ斗地主.png" group-title="体育频道", JJ斗地主
@@ -1865,8 +1659,6 @@ https://yylunbo.ottiptv.cc/yy/1382736839
 https://yylunbo.ottiptv.cc/yy/1354932359
 #EXTINF:-1 tvg-name="静静的看自己喜欢的电影" tvg-id="静静的看自己喜欢的电影" tvg-logo="https://tb.zbds.top/logo/静静的看自己喜欢的电影.png" group-title="解说频道", 静静的看自己喜欢的电影
 https://yylunbo.ottiptv.cc/yy/1354508622
-#EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="音乐频道", CCTV15
-http://222.134.245.16:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 tvg-name="潮流音乐" tvg-id="潮流音乐" tvg-logo="https://tb.zbds.top/logo/潮流音乐.png" group-title="音乐频道", 潮流音乐
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-name="音乐现场" tvg-id="音乐现场" tvg-logo="https://tb.zbds.top/logo/音乐现场.png" group-title="音乐频道", 音乐现场
@@ -2069,12 +1861,6 @@ http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 tvg-name="黄龙" tvg-id="黄龙" tvg-logo="https://tb.zbds.top/logo/黄龙.png" group-title="直播中国", 黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天日本台.png" group-title="🍍台湾4GTV",靖天日本台
-http://220.135.64.124:5050/4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/靖天日本台.png" group-title="🍍台湾4GTV",靖天日本台
-http://220.135.64.124:5050/li-4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/纬来日本.png" group-title="🍍台湾4GTV",纬来日本
-rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="🇯🇵日本地上",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKE.png" group-title="🇯🇵日本地上",NHKE HD
