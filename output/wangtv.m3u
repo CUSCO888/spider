@@ -426,39 +426,33 @@ http://116.232.150.99:50001/tsfile/live/0001_43.m3u8?key=txiptv&playlive=1&authi
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="上海频道",东方影视
 http://116.232.150.99:50001/tsfile/live/0001_19.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://39.150.98.32:7799/tsfile/live/0001_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/2/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://39.150.98.32:7799/tsfile/live/0002_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/4/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3
-http://39.150.98.32:7799/tsfile/live/0003_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/6/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://39.150.98.32:7799/tsfile/live/0004_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/13/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
-http://39.150.98.32:7799/tsfile/live/0016_1.m3u8$河南移动酒店
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
-http://39.150.98.32:7799/tsfile/live/0016_5.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/7/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
-http://39.150.98.32:7799/tsfile/live/0006_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/8/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7
-http://39.150.98.32:7799/tsfile/live/0007_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/9/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8
-http://39.150.98.32:7799/tsfile/live/0008_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/14/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9
-http://39.150.98.32:7799/tsfile/live/0009_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/10/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10
-http://39.150.98.32:7799/tsfile/live/0010_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/11/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV11
-http://39.150.98.32:7799/tsfile/live/0011_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/16/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12
-http://39.150.98.32:7799/tsfile/live/0012_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/12/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13
-http://39.150.98.32:7799/tsfile/live/0013_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/19/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14
-http://39.150.98.32:7799/tsfile/live/0014_1.m3u8$河南移动酒店
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV15
-http://39.150.98.32:7799/tsfile/live/0015_1.m3u8$河南移动酒店
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
-http://39.150.98.32:7799/tsfile/live/1038_1.m3u8$河南移动酒店
+http://1.31.14.70:54321/hls/22/index.m3u8$内蒙古联通酒店
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
