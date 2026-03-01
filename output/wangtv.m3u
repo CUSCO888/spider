@@ -599,19 +599,70 @@ http://23.237.228.134/live8/neimenggu.m3u8
 http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-id="东方卫视4K" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="卫视频道", 东方卫视4K
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 tvg-name="苏州4K" tvg-id="苏州4K" tvg-logo="https://tb.zbds.top/logo/苏州4K.png" group-title="卫视频道", 苏州4K
-https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://tb.zbds.top/logo/北京新闻.png" group-title="地方频道", 北京新闻
-https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="北京生活" tvg-id="北京生活" tvg-logo="https://tb.zbds.top/logo/北京生活.png" group-title="地方频道", 北京生活
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-name="北京科教" tvg-id="北京科教" tvg-logo="https://tb.zbds.top/logo/北京科教.png" group-title="地方频道", 北京科教
-http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
-#EXTINF:-1 tvg-name="北京青年" tvg-id="北京青年" tvg-logo="https://tb.zbds.top/logo/北京青年.png" group-title="地方频道", 北京青年
-http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="上海新闻综合" tvg-logo="https://tb.zbds.top/logo/上海新闻综合.png" group-title="地方频道", 上海新闻综合
-https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
-#EXTINF:-1 tvg-name="上海第一财经" tvg-id="上海第一财经" tvg-logo="https://tb.zbds.top/logo/上海第一财经.png" group-title="地方频道", 上海第一财经
+#EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="☘️北京频道",BRTV纪实科教
+http://120.76.248.139/live/bfgd/4200000113.m3u8
+#EXTINF:-1 tvg-id="BRTV卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="☘️北京频道",BRTV卡酷少儿
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
+#EXTINF:-1 tvg-id="BRTV新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="☘️北京频道",BRTV新闻
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
+#EXTINF:-1 tvg-id="BRTV影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.cn/tv/北京影视.png" group-title="☘️北京频道",BRTV影视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1742954511&sign=5241ba5667bd08639fd195ea9db6da5a
+#EXTINF:-1 tvg-id="BRTV文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="☘️北京频道",BRTV文艺
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1742954441&sign=36eca1b00f7de9e79ecc4449bcaa35d5
+#EXTINF:-1 tvg-id="BRTV财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.cn/tv/北京财经.png" group-title="☘️北京频道",BRTV财经
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
+#EXTINF:-1 tvg-id="BRTV生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.cn/tv/北京生活.png" group-title="☘️北京频道",BRTV生活
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
+#EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.cn/tv/北京体育休闲.png" group-title="☘️北京频道",BRTV体育休闲
+http://smjdenny.eu.org:35455/bptv/10000100000000050000000003870779.m3u8
+#EXTINF:-1 tvg-id="BRTV国际频道" tvg-name="北京国际频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing11.png" group-title="☘️北京频道",BRTV国际频道
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
+#EXTINF:-1 tvg-name="北京超清" tvg-logo="https://live.fanmingming.cn/tv/北京超清.png" group-title="☘️北京频道",北京4K超清
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.cn/tv/北京淘电影.png" group-title="☘️北京频道",淘电影
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.cn/tv/北京淘剧场.png" group-title="☘️北京频道",淘剧场
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
+#EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.cn/tv/北京淘娱乐.png" group-title="☘️北京频道",淘娱乐
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 tvg-name="北京淘BABY" tvg-logo="https://live.fanmingming.cn/tv/北京淘BABY.png" group-title="☘️北京频道",淘BABY
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://live.fanmingming.cn/tv/北京萌宠TV.png" group-title="☘️北京频道",萌宠TV
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
+#EXTINF:-1 group-title="☘️北京频道",优优宝贝
+http://120.76.248.139/live/bfgd/4200000153.m3u8
+#EXTINF:-1 group-title="☘️北京频道",中华特产
+http://120.76.248.139/live/bfgd/4200000158.m3u8
+#EXTINF:-1 group-title="☘️北京频道",生态环境
+http://120.76.248.139/live/bfgd/4200000149.m3u8
+#EXTINF:-1 group-title="☘️北京频道",四海钓鱼
+http://120.76.248.139/live/bfgd/4200000229.m3u8
+#EXTINF:-1 group-title="☘️北京频道",车迷频道
+http://120.76.248.139/live/bfgd/4200000146.m3u8
+#EXTINF:-1 group-title="☘️北京频道",环球旅游
+http://120.76.248.139/live/bfgd/4200000147.m3u8
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="☘️上海频道",纪实人文
+http://8.138.7.223/tv/shtv.php?id=xjs
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="☘️上海频道",哈哈炫动
+http://111.22.153.159:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="☘️上海频道",上海新闻
+http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="☘️上海频道",东方财经
+http://111.22.153.159:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="☘️上海频道",第一财经
+http://8.138.7.223/tv/shtv.php?id=dycj
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="☘️上海频道",东方影视
+http://111.22.153.159:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="☘️上海频道",五星体育
+http://8.138.7.223/tv/shtv.php?id=wxty
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="☘️上海频道",上海都市
+http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
+#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="☘️上海频道",上海外语
+http://111.22.153.159:35455/itv/2000000002000000001.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="☘️上海频道",上海教育
+http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="☘️上海频道",崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="日本",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKE.png" group-title="日本",NHKE HD
@@ -760,11 +811,11 @@ https://nl.utako.moe/mtv/index.m3u8
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 tvg-id="Music_On_TV" tvg-name="Music ON TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/musicon.jpg" group-title="日本",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan",tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/nhkworld.png" group-title="日本",NHK World
+#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/nhkworld.png" group-title="日本",NHK World
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="JOAB",tvg-name="JOAB" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/joabdtv.jpg" group-title="日本",JOAB
+#EXTINF:-1 tvg-id="JOAB" tvg-name="JOAB" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/joabdtv.jpg" group-title="日本",JOAB
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-#EXTINF:-1 tvg-id="JORX",tvg-name="JORX" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/jorxdtv.webp" group-title="日本",JORX
+#EXTINF:-1 tvg-id="JORX" tvg-name="JORX" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/jorxdtv.webp" group-title="日本",JORX
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 tvg-id="gakinotsukai",tvg-name="gakinotsukai" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/gakinotsukai.png" group-title="日本",ガキの使い
+#EXTINF:-1 tvg-id="gakinotsukai" tvg-name="gakinotsukai" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/gakinotsukai.png" group-title="日本",ガキの使い
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
