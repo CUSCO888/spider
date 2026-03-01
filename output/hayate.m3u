@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="ChiJyo",NHKG HD
+#EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="地上波",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
-#EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKE.png" group-title="ChiJyo",NHKE HD
+#EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKE.png" group-title="地上波",NHKE HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
-#EXTINF:-1 tvg-id="Nippon_TV" tvg-name="日テレHD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/日テレ.png" group-title="ChiJyo",日テレHD
+#EXTINF:-1 tvg-id="Nippon_TV" tvg-name="日テレHD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/日テレ.png" group-title="地上波",日テレHD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tbs.png" group-title="ChiJyo",TBS HD
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tbs.png" group-title="地上波",TBS HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
-#EXTINF:-1 tvg-id="Fuji_TV" tvg-name="フジテレビHD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/フジテレビ.png" group-title="ChiJyo",フジテレビHD
+#EXTINF:-1 tvg-id="Fuji_TV" tvg-name="フジテレビHD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/フジテレビ.png" group-title="地上波",フジテレビHD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
-#EXTINF:-1 tvg-id="TV_Asahi" tvg-name="テレビ朝日HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tv 朝日.png" group-title="ChiJyo",テレビ朝日HD
+#EXTINF:-1 tvg-id="TV_Asahi" tvg-name="テレビ朝日HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tv 朝日.png" group-title="地上波",テレビ朝日HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
-#EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/テレ東.jpg" group-title="ChiJyo",テレビ東京HD
+#EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/テレ東.jpg" group-title="地上波",テレビ東京HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
-#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Tokyo MX1.jpg" group-title="ChiJyo",TOKYO MX1 HD
+#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Tokyo MX1.jpg" group-title="地上波",TOKYO MX1 HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
-#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Tokyo MX2.jpg" group-title="ChiJyo",TOKYO MX2
+#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Tokyo MX2.jpg" group-title="地上波",TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 tvg-id="TV_Osaka" tvg-name="テレビ大阪" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/テレビ大阪.png" group-title="ChiJyo",テレビ大阪
+#EXTINF:-1 tvg-id="TV_Osaka" tvg-name="テレビ大阪" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/テレビ大阪.png" group-title="地上波",テレビ大阪
 https://nl.utako.moe/tvo/index.m3u8
-#EXTINF:-1 tvg-id="Kansai_TV" tvg-name="関西テレビ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/関西テレビ.jpg" group-title="ChiJyo",関西テレビ
+#EXTINF:-1 tvg-id="Kansai_TV" tvg-name="関西テレビ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/関西テレビ.jpg" group-title="地上波",関西テレビ
 https://nl.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 tvg-id="Yomiuri_TV" tvg-name="読売テレビ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/読売テレビ.png" group-title="ChiJyo",読売テレビ
+#EXTINF:-1 tvg-id="Yomiuri_TV" tvg-name="読売テレビ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/読売テレビ.png" group-title="地上波",読売テレビ
 https://nl.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="ChiJyo" tvg-id="MBS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Mainichi.png", MBS毎日放送
+#EXTINF:-1 group-title="地上波" tvg-id="MBS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Mainichi.png", MBS毎日放送
 http://nl.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="ChiJyo" tvg-id="ABC_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ABCAsahi.png", ABC朝日放送
+#EXTINF:-1 group-title="地上波" tvg-id="ABC_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ABCAsahi.png", ABC朝日放送
 http://nl.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="ChiJyo" tvg-id="KBS_Kyoto" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Kbs.png",KBS京都
+#EXTINF:-1 group-title="地上波" tvg-id="KBS_Kyoto" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Kbs.png",KBS京都
 http://nl.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="ChiJyo" tvg-id="Sun_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/SUN.png", サンテレビ
+#EXTINF:-1 group-title="地上波" tvg-id="Sun_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/SUN.png", サンテレビ
 http://nl.utako.moe/suntv/index.m3u8
 #EXTINF:-1 tvg-id="NHK_BS" tvg-name="NHK BS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKBS.png" group-title="BS",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
