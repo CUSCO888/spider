@@ -619,338 +619,92 @@ http://58.57.40.22:9901/tsfile/live/1040_1.m3u8
 http://23.237.228.134/live8/neimenggu.m3u8
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-id="东方卫视4K" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="卫视频道", 东方卫视4K
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="咪咕",CCTV-1综合
-http://8.138.7.223/tv/migu666.php?id=cctv1
-#EXTINF:-1 group-title="咪咕",CCTV-2财经
-http://8.138.7.223/tv/migu666.php?id=cctv2
-#EXTINF:-1 group-title="咪咕",CCTV-3综艺
-http://8.138.7.223/tv/migu666.php?id=cctv3
-#EXTINF:-1 group-title="咪咕",CCTV-4中文国际
-http://8.138.7.223/tv/migu666.php?id=cctv4
-#EXTINF:-1 group-title="咪咕",CCTV-4欧洲
-http://8.138.7.223/tv/migu666.php?id=cctv4m
-#EXTINF:-1 group-title="咪咕",CCTV-4美洲
-http://8.138.7.223/tv/migu666.php?id=cctv4o
-#EXTINF:-1 group-title="咪咕",CCTV-5体育
-http://8.138.7.223/tv/migu666.php?id=cctv5
-#EXTINF:-1 group-title="咪咕",CCTV-5+体育赛事
-http://8.138.7.223/tv/migu666.php?id=cctv5p
-#EXTINF:-1 group-title="咪咕",CCTV-6电影
-http://8.138.7.223/tv/migu666.php?id=cctv6
-#EXTINF:-1 group-title="咪咕",CCTV-7国防军事
-http://8.138.7.223/tv/migu666.php?id=cctv7
-#EXTINF:-1 group-title="咪咕",CCTV-8电视剧
-http://8.138.7.223/tv/migu666.php?id=cctv8
-#EXTINF:-1 group-title="咪咕",CCTV-9纪录
-http://8.138.7.223/tv/migu666.php?id=cctv9
-#EXTINF:-1 group-title="咪咕",CCTV-10科教
-http://8.138.7.223/tv/migu666.php?id=cctv10
-#EXTINF:-1 group-title="咪咕",CCTV-11戏曲
-http://8.138.7.223/tv/migu666.php?id=cctv11
-#EXTINF:-1 group-title="咪咕",CCTV-12社会与法
-http://8.138.7.223/tv/migu666.php?id=cctv12
-#EXTINF:-1 group-title="咪咕",CCTV-13新闻
-http://8.138.7.223/tv/migu666.php?id=cctv13
-#EXTINF:-1 group-title="咪咕",CCTV-14少儿
-http://8.138.7.223/tv/migu666.php?id=cctv14
-#EXTINF:-1 group-title="咪咕",CCTV-15音乐
-http://8.138.7.223/tv/migu666.php?id=cctv15
-#EXTINF:-1 group-title="咪咕",CCTV-17农业农村
-http://8.138.7.223/tv/migu666.php?id=cctv17
-#EXTINF:-1 group-title="咪咕",CCTV发现之旅
-http://8.138.7.223/tv/migu666.php?id=fxzl
-#EXTINF:-1 group-title="咪咕",CCTV老故事
-http://8.138.7.223/tv/migu666.php?id=lgs
-#EXTINF:-1 group-title="咪咕",CCTV中学生
-http://8.138.7.223/tv/migu666.php?id=zxs
-#EXTINF:-1 group-title="咪咕",CGTN
-http://8.138.7.223/tv/migu666.php?id=cgtn
-#EXTINF:-1 group-title="咪咕",CGTN纪录
-http://8.138.7.223/tv/migu666.php?id=cgtnjl
-#EXTINF:-1 group-title="咪咕",CCTV西班牙语
-http://8.138.7.223/tv/migu666.php?id=cgtne
-#EXTINF:-1 group-title="咪咕",CCTV法语
-http://8.138.7.223/tv/migu666.php?id=cgtnf
-#EXTINF:-1 group-title="咪咕",CCTV阿拉伯语
-http://8.138.7.223/tv/migu666.php?id=cgtna
-#EXTINF:-1 group-title="咪咕",CCTV俄语
-http://8.138.7.223/tv/migu666.php?id=cgtnr
-#EXTINF:-1 group-title="咪咕",东方卫视
-http://8.138.7.223/tv/migu666.php?id=dfws
-#EXTINF:-1 group-title="咪咕",重庆卫视
-http://8.138.7.223/tv/migu666.php?id=cqws
-#EXTINF:-1 group-title="咪咕",吉林卫视
-http://8.138.7.223/tv/migu666.php?id=jlws
-#EXTINF:-1 group-title="咪咕",辽宁卫视
-http://8.138.7.223/tv/migu666.php?id=lnws
-#EXTINF:-1 group-title="咪咕",内蒙古卫视
-http://8.138.7.223/tv/migu666.php?id=nmws
-#EXTINF:-1 group-title="咪咕",宁夏卫视
-http://8.138.7.223/tv/migu666.php?id=nxws
-#EXTINF:-1 group-title="咪咕",甘肃卫视
-http://8.138.7.223/tv/migu666.php?id=gsws
-#EXTINF:-1 group-title="咪咕",青海卫视
-http://8.138.7.223/tv/migu666.php?id=qhws
-#EXTINF:-1 group-title="咪咕",陕西卫视
-http://8.138.7.223/tv/migu666.php?id=sxws
-#EXTINF:-1 group-title="咪咕",山东卫视
-http://8.138.7.223/tv/migu666.php?id=sdws
-#EXTINF:-1 group-title="咪咕",河南卫视
-http://8.138.7.223/tv/migu666.php?id=hnws
-#EXTINF:-1 group-title="咪咕",湖北卫视
-http://8.138.7.223/tv/migu666.php?id=hubws
-#EXTINF:-1 group-title="咪咕",湖南卫视
-http://8.138.7.223/tv/migu666.php?id=hunws
-#EXTINF:-1 group-title="咪咕",江西卫视
-http://8.138.7.223/tv/migu666.php?id=jxws
-#EXTINF:-1 group-title="咪咕",江苏卫视
-http://8.138.7.223/tv/migu666.php?id=jsws
-#EXTINF:-1 group-title="咪咕",东南卫视
-http://8.138.7.223/tv/migu666.php?id=dnws
-#EXTINF:-1 group-title="咪咕",海峡卫视
-http://8.138.7.223/tv/migu666.php?id=hxws
-#EXTINF:-1 group-title="咪咕",广东卫视
-http://8.138.7.223/tv/migu666.php?id=gdws
-#EXTINF:-1 group-title="咪咕",大湾区卫视
-http://8.138.7.223/tv/migu666.php?id=dwqws
-#EXTINF:-1 group-title="咪咕",广西卫视
-http://8.138.7.223/tv/migu666.php?id=gxws
-#EXTINF:-1 group-title="咪咕",云南卫视
-http://8.138.7.223/tv/migu666.php?id=ynws
-#EXTINF:-1 group-title="咪咕",贵州卫视
-http://8.138.7.223/tv/migu666.php?id=gzws
-#EXTINF:-1 group-title="咪咕",新疆卫视
-http://8.138.7.223/tv/migu666.php?id=xjws
-#EXTINF:-1 group-title="咪咕",西藏卫视
-http://8.138.7.223/tv/migu666.php?id=xzws
-#EXTINF:-1 group-title="咪咕",海南卫视
-http://8.138.7.223/tv/migu666.php?id=hinws
-#EXTINF:-1 group-title="咪咕",四海钓鱼
-http://8.138.7.223/tv/migu666.php?id=shdy
-#EXTINF:-1 group-title="咪咕",CHC动作电影
-http://8.138.7.223/tv/migu666.php?id=chcdzdy
-#EXTINF:-1 group-title="咪咕",CHC家庭影院
-http://8.138.7.223/tv/migu666.php?id=chcjtdy
-#EXTINF:-1 group-title="咪咕",东方影视
-http://8.138.7.223/tv/migu666.php?id=dfys
-#EXTINF:-1 group-title="咪咕",上海新闻综合
-http://8.138.7.223/tv/migu666.php?id=shxwzh
-#EXTINF:-1 group-title="咪咕",上海第一财经
-http://8.138.7.223/tv/migu666.php?id=dycj
-#EXTINF:-1 group-title="咪咕",上视纪实人文
-http://8.138.7.223/tv/migu666.php?id=shjsrw
-#EXTINF:-1 group-title="咪咕",上海外语
-http://8.138.7.223/tv/migu666.php?id=shics
-#EXTINF:-1 group-title="咪咕",法治天地
-http://8.138.7.223/tv/migu666.php?id=fztd
-#EXTINF:-1 group-title="咪咕",劲爆体育
-http://8.138.7.223/tv/migu666.php?id=jbty
-#EXTINF:-1 group-title="咪咕",魅力足球
-http://8.138.7.223/tv/migu666.php?id=mlzq
-#EXTINF:-1 group-title="咪咕",乐游
-http://8.138.7.223/tv/migu666.php?id=ly
-#EXTINF:-1 group-title="咪咕",欢笑剧场
-http://8.138.7.223/tv/migu666.php?id=hxjc
-#EXTINF:-1 group-title="咪咕",七彩戏剧
-http://8.138.7.223/tv/migu666.php?id=qcxj
-#EXTINF:-1 group-title="咪咕",游戏风云
-http://8.138.7.223/tv/migu666.php?id=yxfy
-#EXTINF:-1 group-title="咪咕",临洮电视台
-http://8.138.7.223/tv/migu666.php?id=lttv
-#EXTINF:-1 group-title="咪咕",江苏城市
-http://8.138.7.223/tv/migu666.php?id=jscs
-#EXTINF:-1 group-title="咪咕",江苏综艺
-http://8.138.7.223/tv/migu666.php?id=jszy
-#EXTINF:-1 group-title="咪咕",江苏影视
-http://8.138.7.223/tv/migu666.php?id=jsys
-#EXTINF:-1 group-title="咪咕",江苏公共新闻
-http://8.138.7.223/tv/migu666.php?id=jsggxw
-#EXTINF:-1 group-title="咪咕",江苏国际
-http://8.138.7.223/tv/migu666.php?id=jsgj
-#EXTINF:-1 group-title="咪咕",江苏教育
-http://8.138.7.223/tv/migu666.php?id=jsjy
-#EXTINF:-1 group-title="咪咕",江苏体育休闲
-http://8.138.7.223/tv/migu666.php?id=jstyxx
-#EXTINF:-1 group-title="咪咕",优漫卡通
-http://8.138.7.223/tv/migu666.php?id=ymkt
-#EXTINF:-1 group-title="咪咕",南京新闻综合
-http://8.138.7.223/tv/migu666.php?id=njxwzh
-#EXTINF:-1 group-title="咪咕",南京教科
-http://8.138.7.223/tv/migu666.php?id=njkj
-#EXTINF:-1 group-title="咪咕",南京十八
-http://8.138.7.223/tv/migu666.php?id=njsb
-#EXTINF:-1 group-title="咪咕",淮安新闻综合
-http://8.138.7.223/tv/migu666.php?id=haxwzh
-#EXTINF:-1 group-title="咪咕",连云港新闻综合
-http://8.138.7.223/tv/migu666.php?id=lygxwzh
-#EXTINF:-1 group-title="咪咕",苏州新闻综合
-http://8.138.7.223/tv/migu666.php?id=szxwzh
-#EXTINF:-1 group-title="咪咕",泰州新闻综合
-http://8.138.7.223/tv/migu666.php?id=tzxwzh
-#EXTINF:-1 group-title="咪咕",宿迁新闻综合
-http://8.138.7.223/tv/migu666.php?id=sqxwzh
-#EXTINF:-1 group-title="咪咕",徐州新闻综合
-http://8.138.7.223/tv/migu666.php?id=xzxwzh
-#EXTINF:-1 group-title="咪咕",广东影视
-http://8.138.7.223/tv/migu666.php?id=gdys
-#EXTINF:-1 group-title="咪咕",高清大片
-http://8.138.7.223/tv/migu666.php?id=gqdp
-#EXTINF:-1 group-title="咪咕",经典深圳旁边电影
-http://8.138.7.223/tv/migu666.php?id=jdxgdy
-#EXTINF:-1 group-title="咪咕",军事迷必看大片
-http://8.138.7.223/tv/migu666.php?id=jsdp
-#EXTINF:-1 group-title="咪咕",历届春晚回顾
-http://8.138.7.223/tv/migu666.php?id=ljcwhg
-#EXTINF:-1 group-title="咪咕",咪咕24小时体育台
-http://8.138.7.223/tv/migu666.php?id=mg24hty
-#EXTINF:-1 group-title="咪咕",玫瑰轮播台
-http://8.138.7.223/tv/migu666.php?id=mglbt
-#EXTINF:-1 group-title="咪咕",欧洲足球风云
-http://8.138.7.223/tv/migu666.php?id=ozzqfy
-#EXTINF:-1 group-title="咪咕",全民乒乓
-http://8.138.7.223/tv/migu666.php?id=qmpp
-#EXTINF:-1 group-title="咪咕",热剧联播
-http://8.138.7.223/tv/migu666.php?id=rjlb
-#EXTINF:-1 group-title="咪咕",赛事最经典
-http://8.138.7.223/tv/migu666.php?id=sszjd
-#EXTINF:-1 group-title="咪咕",体坛名栏汇
-http://8.138.7.223/tv/migu666.php?id=ttmlh
-#EXTINF:-1 group-title="咪咕",新片放映厅
-http://8.138.7.223/tv/migu666.php?id=xpfyt
-#EXTINF:-1 group-title="咪咕",熊猫1
-http://8.138.7.223/tv/migu666.php?id=xm1
-#EXTINF:-1 group-title="咪咕",熊猫2
-http://8.138.7.223/tv/migu666.php?id=xm2
-#EXTINF:-1 group-title="咪咕",熊猫3
-http://8.138.7.223/tv/migu666.php?id=xm3
-#EXTINF:-1 group-title="咪咕",熊猫4
-http://8.138.7.223/tv/migu666.php?id=xm4
-#EXTINF:-1 group-title="咪咕",熊猫5
-http://8.138.7.223/tv/migu666.php?id=xm5
-#EXTINF:-1 group-title="咪咕",熊猫6
-http://8.138.7.223/tv/migu666.php?id=xm6
-#EXTINF:-1 group-title="咪咕",熊猫7
-http://8.138.7.223/tv/migu666.php?id=xm7
-#EXTINF:-1 group-title="咪咕",赛事睛彩竞技
-http://vip.lqcc.xyz:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",赛事睛彩篮球
-http://vip.lqcc.xyz:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",赛事睛彩竞技
-http://vip.lqcc.xyz:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",赛事睛彩篮球
-http://vip.lqcc.xyz:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",赛事纬来NBA
-rtmp://9hv9.mine.nu/sat/tv721
-#EXTINF:-1 group-title="咪咕",咪咕赛事4k-1
-http://vip.lqcc.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事4k-2
-http://vip.lqcc.xyz:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播01
-http://vip.lqcc.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播02
-http://vip.lqcc.xyz:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播03
-http://vip.lqcc.xyz:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播04
-http://vip.lqcc.xyz:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播05
-http://vip.lqcc.xyz:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播06
-http://vip.lqcc.xyz:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播07
-http://vip.lqcc.xyz:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播08
-http://vip.lqcc.xyz:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播09
-http://vip.lqcc.xyz:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播10
-http://vip.lqcc.xyz:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播11
-http://vip.lqcc.xyz:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播12
-http://vip.lqcc.xyz:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播13
-http://vip.lqcc.xyz:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播14
-http://vip.lqcc.xyz:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播15
-http://vip.lqcc.xyz:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播16
-http://vip.lqcc.xyz:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播17
-http://vip.lqcc.xyz:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播18
-http://vip.lqcc.xyz:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播19
-http://vip.lqcc.xyz:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播20
-http://vip.lqcc.xyz:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播21
-http://vip.lqcc.xyz:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播22
-http://vip.lqcc.xyz:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播23
-http://vip.lqcc.xyz:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播24
-http://vip.lqcc.xyz:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播25
-http://vip.lqcc.xyz:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播26
-http://vip.lqcc.xyz:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播27
-http://vip.lqcc.xyz:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播28
-http://vip.lqcc.xyz:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播29
-http://vip.lqcc.xyz:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播30
-http://vip.lqcc.xyz:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播31
-http://vip.lqcc.xyz:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播32
-http://vip.lqcc.xyz:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播33
-http://vip.lqcc.xyz:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播34
-http://vip.lqcc.xyz:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播35
-http://vip.lqcc.xyz:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播36
-http://vip.lqcc.xyz:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播37
-http://vip.lqcc.xyz:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播38
-http://vip.lqcc.xyz:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播39
-http://vip.lqcc.xyz:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播40
-http://vip.lqcc.xyz:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播41
-http://vip.lqcc.xyz:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播42
-http://vip.lqcc.xyz:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播43
-http://vip.lqcc.xyz:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播44
-http://vip.lqcc.xyz:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播45
-http://vip.lqcc.xyz:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播46
-http://vip.lqcc.xyz:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播47
-http://vip.lqcc.xyz:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播48
-http://vip.lqcc.xyz:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播49
-http://vip.lqcc.xyz:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播50
-http://vip.lqcc.xyz:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播51
-http://vip.lqcc.xyz:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播52
-http://vip.lqcc.xyz:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕",咪咕赛事播53
-http://vip.lqcc.xyz:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="咪1" tvg-logo="https://live.fanmingming.cn/tv/咪1.png" group-title="咪咕",咪1
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪2" tvg-logo="https://live.fanmingming.cn/tv/咪2.png" group-title="咪咕",咪2
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪3" tvg-logo="https://live.fanmingming.cn/tv/咪3.png" group-title="咪咕",咪3
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪4" tvg-logo="https://live.fanmingming.cn/tv/咪4.png" group-title="咪咕",咪4
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪5" tvg-logo="https://live.fanmingming.cn/tv/咪5.png" group-title="咪咕",咪5
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪6" tvg-logo="https://live.fanmingming.cn/tv/咪6.png" group-title="咪咕",咪6
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪7" tvg-logo="https://live.fanmingming.cn/tv/咪7.png" group-title="咪咕",咪7
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪8" tvg-logo="https://live.fanmingming.cn/tv/咪8.png" group-title="咪咕",咪8
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪9" tvg-logo="https://live.fanmingming.cn/tv/咪9.png" group-title="咪咕",咪9
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪10" tvg-logo="https://live.fanmingming.cn/tv/咪10.png" group-title="咪咕",咪10
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪11" tvg-logo="https://live.fanmingming.cn/tv/咪11.png" group-title="咪咕",咪11
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪12" tvg-logo="https://live.fanmingming.cn/tv/咪12.png" group-title="咪咕",咪12
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪13" tvg-logo="https://live.fanmingming.cn/tv/咪13.png" group-title="咪咕",咪13
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪14" tvg-logo="https://live.fanmingming.cn/tv/咪14.png" group-title="咪咕",咪14
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪15" tvg-logo="https://live.fanmingming.cn/tv/咪15.png" group-title="咪咕",咪15
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪世界4K" tvg-logo="https://live.fanmingming.cn/tv/咪世界4K.png" group-title="咪咕",咪世界4K
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪16" tvg-logo="https://live.fanmingming.cn/tv/咪16.png" group-title="咪咕",咪16
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪17" tvg-logo="https://live.fanmingming.cn/tv/咪17.png" group-title="咪咕",咪17
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪18" tvg-logo="https://live.fanmingming.cn/tv/咪18.png" group-title="咪咕",咪18
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="至臻4K" tvg-logo="https://live.fanmingming.cn/tv/至臻4K.png" group-title="咪咕",至臻4K
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪19" tvg-logo="https://live.fanmingming.cn/tv/咪19.png" group-title="咪咕",咪19
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪20" tvg-logo="https://live.fanmingming.cn/tv/咪20.png" group-title="咪咕",咪20
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪21" tvg-logo="https://live.fanmingming.cn/tv/咪21.png" group-title="咪咕",咪21
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪22" tvg-logo="https://live.fanmingming.cn/tv/咪22.png" group-title="咪咕",咪22
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪23" tvg-logo="https://live.fanmingming.cn/tv/咪23.png" group-title="咪咕",咪23
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪24" tvg-logo="https://live.fanmingming.cn/tv/咪24.png" group-title="咪咕",咪24
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪26" tvg-logo="https://live.fanmingming.cn/tv/咪26.png" group-title="咪咕",咪26
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪28" tvg-logo="https://live.fanmingming.cn/tv/咪28.png" group-title="咪咕",咪28
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪27" tvg-logo="https://live.fanmingming.cn/tv/咪27.png" group-title="咪咕",咪27
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪25" tvg-logo="https://live.fanmingming.cn/tv/咪25.png" group-title="咪咕",咪25
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/晴彩广场舞.png" group-title="咪咕",晴彩广场舞
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/晴彩广场舞.png" group-title="咪咕",晴彩广场舞
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://live.fanmingming.cn/tv/晴彩篮球.png" group-title="咪咕",晴彩篮球
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://live.fanmingming.cn/tv/晴彩篮球.png" group-title="咪咕",晴彩篮球
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播 𝟙𝟞.png" group-title="咪咕",咪咕直播 𝟙𝟞
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟟" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播 𝟙𝟟.png" group-title="咪咕",咪咕直播 𝟙𝟟
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播 𝟙𝟠.png" group-title="咪咕",咪咕直播 𝟙𝟠
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播 𝟙𝟡.png" group-title="咪咕",咪咕直播 𝟙𝟡
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播 𝟚𝟘.png" group-title="咪咕",咪咕直播 𝟚𝟘
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟝" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播 𝟚𝟝.png" group-title="咪咕",咪咕直播 𝟚𝟝
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播 𝟚𝟞.png" group-title="咪咕",咪咕直播 𝟚𝟞
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="咪咕",CCTV7
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="咪咕",CCTV7
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=m
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="日本",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKE.png" group-title="日本",NHKE HD
