@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳",凤凰资讯
@@ -539,8 +538,8 @@ http://livenico.sheng17.site/php/aikan.php?id=cctv10&/PLTV/hls.smil.m3u8
 http://livenico.sheng17.site/php/aikan.php?id=cctv11&/PLTV/hls.smil.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央卫网络",CCTV12
 http://livenico.sheng17.site/php/aikan.php?id=cctv12&/PLTV/hls.smil.m3u8
-#EXTINF:-1 tvg-name="CCTV13http://livenico.sheng17.site/php/aikan.php?id=cctv13&/PLTV/hls.smil.m3u8" tvg-logo="https://live.fanmingming.cn/tv/CCTV13http://livenico.sheng17.site/php/aikan.php?id=cctv13&/PLTV/hls.smil.m3u8.png" group-title="央卫网络",CCTV13http://livenico.sheng17.site/php/aikan.php?id=cctv13&/PLTV/hls.smil.m3u8
-undefined
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央卫网络",CCTV13
+http://livenico.sheng17.site/php/aikan.php?id=cctv13&/PLTV/hls.smil.m3u8"
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央卫网络",CCTV14
 http://livenico.sheng17.site/php/aikan.php?id=cctv14&/PLTV/hls.smil.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央卫网络",CCTV15
@@ -827,7 +826,6 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央卫网络",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
-
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="日本",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKE.png" group-title="日本",NHKE HD
