@@ -149,81 +149,31 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakute
 http://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-dt="44" tvg-id="V_Paradise" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/paradise.png" group-title="RAKUTEN",パラダイス
 http://nl.utako.moe/v_paradise/index.m3u8
-#EXTINF:-1 tvg-name="WionNews" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/WionNews.png" group-title="USA",WionNews
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Newsmax.png" group-title="USA",Newsmax
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News",Al Jazeera
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishUSA.il" tvg-name="i24NEWS English USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",以色列i24NEWS
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
+#EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Newsmax.png" group-title="News",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CNN.png" group-title="USA",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CNN.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="BBC_AMERICA" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BBC_AMERICA.png" group-title="USA",BBC_AMERICA
-https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-name="BBC_WORLD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BBC_WORLD.png" group-title="USA",BBC_WORLD
-https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BLOOMBERG.png" group-title="USA",BLOOMBERG
-https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-name="C-SPAN" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/C-SPAN.png" group-title="USA",C-SPAN
-https://fl1.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MLB_NETWORK.png" group-title="USA",MLB_NETWORK
-https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="INVESTIGATION_DISCOVERY" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/INVESTIGATION_DISCOVERY.png" group-title="USA",INVESTIGATION_DISCOVERY
-https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-name="CBS_SPORTS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CBS_SPORTS.png" group-title="USA",CBS_SPORTS
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="NFL_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NFL_NETWORK.png" group-title="USA",NFL_NETWORK
-https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="ABC_EAST" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ABC_EAST.png" group-title="USA",ABC_EAST
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-name="ACC_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ACC_NETWORK.png" group-title="USA",ACC_NETWORK
-https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Animal_Planet.png" group-title="USA",Animal_Planet
-https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-name="AMC_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/AMC_NETWORK.png" group-title="USA",AMC_NETWORK
-https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="American_Heroes" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/American_Heroes.png" group-title="USA",American_Heroes
-https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-name="BRAVO" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BRAVO.png" group-title="USA",BRAVO
-https://fl1.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-name="TNT" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/TNT.png" group-title="USA",TNT
-https://fl1.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-name="BEIN_SPORTS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BEIN_SPORTS.png" group-title="USA",BEIN_SPORTS
-https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-name="BET_EAST" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BET_EAST.png" group-title="USA",BET_EAST
-https://fl1.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-name="BET_HER" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BET_HER.png" group-title="USA",BET_HER
-https://fl1.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-name="BET_SOUL" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BET_SOUL.png" group-title="USA",BET_SOUL
-https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-name="BET_Jams" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BET_Jams.png" group-title="USA",BET_Jams
-https://fl1.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-name="CBSEAST" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CBSEAST.png" group-title="USA",CBSEAST
-https://fl1.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-name="CMT" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CMT.png" group-title="USA",CMT
-https://fl1.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 tvg-name="Comedy_Central" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Comedy_Central.png" group-title="USA",Comedy_Central
-https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-name="COOKING" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/COOKING.png" group-title="USA",COOKING
-https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/DISCOVERY_FAMILY_CHANNEL.png" group-title="USA",DISCOVERY_FAMILY_CHANNEL
-https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-name="E_ENTERTAINMENT_TELEVISION" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/E_ENTERTAINMENT_TELEVISION.png" group-title="USA",E_ENTERTAINMENT_TELEVISION
-https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-name="FOOD_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/FOOD_NETWORK.png" group-title="USA",FOOD_NETWORK
-https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="ION_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ION_TV.png" group-title="USA",ION_TV
-https://fl1.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 tvg-name="LIFETIME_MOVIE_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/LIFETIME_MOVIE_NETWORK.png" group-title="USA",LIFETIME_MOVIE_NETWORK
-https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="ME_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ME_TV.png" group-title="USA",ME_TV
-https://fl1.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 tvg-name="MOTOR_TREND" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MOTOR_TREND.png" group-title="USA",MOTOR_TREND
-https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MSNBC.png" group-title="USA",MSNBC
-https://fl1.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 tvg-name="NEWS_NATION" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NEWS_NATION.png" group-title="USA",NEWS_NATION
-https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-name="wwe" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/wwe.png" group-title="USA",wwe
-https://fl3.moveonjoy.com/WWE/index.m3u8
-#EXTINF:-1 tvg-name="movie sphere" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/movie sphere.png" group-title="USA",movie sphere
-https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
-#EXTINF:-1 tvg-name="AMCEast" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/AMCEast.png" group-title="USA",AMCEast
-https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="News",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News
+https://amg01076-lightningintern-gbnewsnz-samsungnz-rlcsd.amagi.tv/playlist/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png" group-title="News",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/VOA美國之音.png" group-title="News",VOA
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-name="WionNews" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/WionNews.png" group-title="News",WionNews
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BLOOMBERG.png" group-title="News",BLOOMBERG
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" group-title="News",Yahoo! Finance
+https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="News",Reuters TV
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MLB_NETWORK.png" group-title="News",MLB_NETWORK
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
