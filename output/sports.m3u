@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/"
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="sports",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="W14DKD5.us" tvg-name="W14DK-D5" tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="sports",W14DK-D5
