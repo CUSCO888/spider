@@ -197,7 +197,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="国际新闻",GB News
 https://amg01076-lightningintern-gbnewsnz-samsungnz-rlcsd.amagi.tv/playlist/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="news",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="国际新闻",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/VOA美國之音.png" group-title="国际新闻",VOA美國之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
@@ -210,7 +210,7 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/ts-us-
 #EXTINF:-1 tvg-name="C-SPAN" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/C-SPAN.png" group-title="国际新闻",C-SPAN
 https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MLB_NETWORK.png" group-title="国际新闻",MLB_NETWORK
-https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-id="BRTV新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="北京频道",BRTV新闻
 http://m.061899.xyz/mg/bjxw
 #EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.cn/tv/北京体育休闲.png" group-title="北京频道",BRTV体育休闲
