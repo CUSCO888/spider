@@ -217,7 +217,7 @@ rtmp://f13h.mine.nu/sat/tv741
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-name="WionNews" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/WionNews.png" group-title="国际新闻",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/DW.png" group-title="国际新闻",DW德國之聲
+#EXTINF:-1 tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/DW.png" group-title="国际新闻",DW德國之聲
 http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Newsmax.png" group-title="国际新闻",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
