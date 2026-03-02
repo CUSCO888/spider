@@ -71,49 +71,49 @@ https://nl.utako.moe/wprime/index.m3u8
 https://nl.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/wowowlive.jpg" group-title="WOWOW",WOWOW Live
 https://nl.utako.moe/wlive/index.m3u8
-#EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="JSport 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports1.png" group-title="CSスポーツ",JSport 1
+#EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="JSport 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports1.png" group-title="CS",JSport 1
 https://nl.utako.moe/js1/index.m3u8
-#EXTINF:-1 tvg-id="J_SPORTS_2" tvg-name="JSport 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports2.png" group-title="CSスポーツ",JSport 2
+#EXTINF:-1 tvg-id="J_SPORTS_2" tvg-name="JSport 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports2.png" group-title="CS",JSport 2
 https://nl.utako.moe/js2/index.m3u8
-#EXTINF:-1 tvg-id="J_SPORTS_3" tvg-name="JSport 3" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports3.jpg" group-title="CSスポーツ",JSport 3
+#EXTINF:-1 tvg-id="J_SPORTS_3" tvg-name="JSport 3" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports3.jpg" group-title="CS",JSport 3
 https://nl.utako.moe/js3/index.m3u8
-#EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="JSport 4" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports4.jpg" group-title="CSスポーツ",JSport 4
+#EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="JSport 4" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports4.jpg" group-title="CS",JSport 4
 https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1 tvg-id="GAORA" tvg-name="Gaora Sports" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/GAORA_SPORTS.png" group-title="CSスポーツ",Gaora Sports
+#EXTINF:-1 tvg-id="GAORA" tvg-name="Gaora Sports" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/GAORA_SPORTS.png" group-title="CS",Gaora Sports
 https://nl.utako.moe/gaora/index.m3u8
-#EXTINF:-1 tvg-id="Sport_Live_Plus" tvg-name="Sport Live Plus" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/sportsliveplus.jpg" group-title="CSスポーツ",スポーツライフ＋
+#EXTINF:-1 tvg-id="Sport_Live_Plus" tvg-name="Sport Live Plus" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/sportsliveplus.jpg" group-title="CS",スポーツライフ＋
 https://nl.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 tvg-id="Golf_Network" tvg-name="ゴルフネットワーク" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/golfnetwork.jpg" group-title="CSスポーツ",ゴルフネットワーク
+#EXTINF:-1 tvg-id="Golf_Network" tvg-name="ゴルフネットワーク" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/golfnetwork.jpg" group-title="CS",ゴルフネットワーク
 https://nl.utako.moe/golf_network/index.m3u8
-#EXTINF:-1 tvg-id="Sky_A" tvg-name="スカイA" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/スカイA.jpg" group-title="CSスポーツ",スカイA
+#EXTINF:-1 tvg-id="Sky_A" tvg-name="スカイA" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/スカイA.jpg" group-title="CS",スカイA
 https://nl.utako.moe/skya/index.m3u8
-#EXTINF:-1 tvg-id="Fighting_TV_Samurai" tvg-name="Fighting TV Samurai" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/FightingTVSamurai.png" group-title="CSスポーツ",FightingTVサムライ
+#EXTINF:-1 tvg-id="Fighting_TV_Samurai" tvg-name="Fighting TV Samurai" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/FightingTVSamurai.png" group-title="CS",FightingTVサムライ
 https://nl.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 tvg-id="Green_Channel" tvg-name="Green Channel" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/greenHD.png" group-title="CSスポーツ",Green Ch
+#EXTINF:-1 tvg-id="Green_Channel" tvg-name="Green Channel" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/greenHD.png" group-title="CS",Green Ch
 https://nl.utako.moe/green/index.m3u8
-#EXTINF:-1 tvg-id="Entame_Tele" tvg-name="エンタメテレ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/エンタメテレ.jpg" group-title="CSスポーツ",エンタメテレ
+#EXTINF:-1 tvg-id="Entame_Tele" tvg-name="エンタメテレ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/エンタメテレ.jpg" group-title="CS",エンタメテレ
 https://nl.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 tvg-id="Tabi_Ch" tvg-name="旅" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/旅Tabi Channel.png" group-title="CS",旅Tabi Ch
 https://nl.utako.moe/tabi/index.m3u8
-#EXTINF:-1 tvg-id="The_Cinema" tvg-name="The Cinema" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/thecinema.jpg" group-title="CS映画",The Cinema
+#EXTINF:-1 tvg-id="The_Cinema" tvg-name="The Cinema" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/thecinema.jpg" group-title="CS",The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
-#EXTINF:-1 tvg-id="Disney_Channel" tvg-name="ディズニーチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ディズニーチャンネル.jpg" group-title="CS映画",ディズニーチャンネル
+#EXTINF:-1 tvg-id="Disney_Channel" tvg-name="ディズニーチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ディズニーチャンネル.jpg" group-title="CS",ディズニーチャンネル
 https://nl.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 tvg-id="Family_Gekijyo" tvg-name="ファミリー劇場" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/familygeki.jpg" group-title="CS映画",ファミリー劇場
+#EXTINF:-1 tvg-id="Family_Gekijyo" tvg-name="ファミリー劇場" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/familygeki.jpg" group-title="CS",ファミリー劇場
 https://nl.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 tvg-id="Monodo_TV" tvg-name="Mondo TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/mondotv.jpg" group-title="CS映画",Mondo TV
+#EXTINF:-1 tvg-id="Monodo_TV" tvg-name="Mondo TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/mondotv.jpg" group-title="CS",Mondo TV
 https://nl.utako.moe/mondo/index.m3u8
-#EXTINF:-1 tvg-id="Home_Drama_Channel" tvg-name="ホームドラマチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/homedrama.jpg" group-title="CS映画",ホームドラマチャンネル
+#EXTINF:-1 tvg-id="Home_Drama_Channel" tvg-name="ホームドラマチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/homedrama.jpg" group-title="CS",ホームドラマチャンネル
 https://nl.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 tvg-id="Channel_Ginga" tvg-name="チャンネル银河" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/チャンネル銀河.jpg" group-title="CS映画",チャンネル银河
+#EXTINF:-1 tvg-id="Channel_Ginga" tvg-name="チャンネル银河" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/チャンネル銀河.jpg" group-title="CS",チャンネル银河
 https://nl.utako.moe/gingach/index.m3u8
-#EXTINF:-1 tvg-id="Neco" tvg-name="Neco Channel" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/neco.jpg" group-title="CS映画",Neco Ch
+#EXTINF:-1 tvg-id="Neco" tvg-name="Neco Channel" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/neco.jpg" group-title="CS",Neco Ch
 https://nl.utako.moe/neco/index.m3u8
-#EXTINF:-1 tvg-id="Dlife" tvg-name="Dlife" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/dlife.png" group-title="CS映画",Dlife
+#EXTINF:-1 tvg-id="Dlife" tvg-name="Dlife" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/dlife.png" group-title="CS",Dlife
 https://nl.utako.moe/dlife/index.m3u8
-#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="東映ch" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/東映ch.png" group-title="CS映画",東映ch
+#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="東映ch" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/東映ch.png" group-title="CS",東映ch
 https://nl.utako.moe/toei/index.m3u8
-#EXTINF:-1 tvg-id="Nihon_Eiga_Special" tvg-name="日本映画専門" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/日本映画専門.jpg" group-title="CS映画",日本映画専門
+#EXTINF:-1 tvg-id="Nihon_Eiga_Special" tvg-name="日本映画専門" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/日本映画専門.jpg" group-title="CS",日本映画専門
 https://nl.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/animax.jpg" group-title="CSアニメ",Animax
 https://nl.utako.moe/Animax/index.m3u8
@@ -123,17 +123,25 @@ https://nl.utako.moe/AT-X/index.m3u8
 https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="Kids_Station" tvg-name="キッズステーション" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/キッズステション.jpg" group-title="CSアニメ",キッズステーション
 https://nl.utako.moe/kids_station/index.m3u8
-#EXTINF:-1 tvg-id="Space_Shower_TV" tvg-name="スペースシャワーTV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/スペースシャワーTV.jpg" group-title="CS音楽",Space Shower TV
+#EXTINF:-1 tvg-id="Space_Shower_TV" tvg-name="スペースシャワーTV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/スペースシャワーTV.jpg" group-title="CS",Space Shower TV
 https://nl.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 tvg-id="MTV_Japan" tvg-name="MTV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MTV.jpg" group-title="CS音楽",MTV
+#EXTINF:-1 tvg-id="MTV_Japan" tvg-name="MTV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MTV.jpg" group-title="CS",MTV
 https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 tvg-id="Kayo_Pops" tvg-name="歌谣ポップス" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/歌謡ポップス.png" group-title="CS音楽",歌谣ポップス
+#EXTINF:-1 tvg-id="Kayo_Pops" tvg-name="歌谣ポップス" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/歌謡ポップス.png" group-title="CS",歌谣ポップス
 https://nl.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 tvg-id="Music_On_TV" tvg-name="Music ON TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/musicon.jpg" group-title="CS音楽",Music ON TV
+#EXTINF:-1 tvg-id="Music_On_TV" tvg-name="Music ON TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/musicon.jpg" group-title="CS",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
-#EXTINF:-1 tvg-id="QVC_Japan" tvg-name="QVC Japan" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/QVC.png" group-title="ショッピング",QVC Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/nhkworld.png" group-title="CS",NHK World
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="JOAB" tvg-name="JOAB" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/joabdtv.jpg" group-title="CS",JOAB
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 tvg-id="JORX" tvg-name="JORX" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/jorxdtv.webp" group-title="CS",JORX
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="gakinotsukai" tvg-name="gakinotsukai" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/gakinotsukai.png" group-title="CS",ガキの使い
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 tvg-id="QVC_Japan" tvg-name="QVC Japan" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/QVC.png" group-title="CS",QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 tvg-id="Shop_Channel" tvg-name="ショップチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ショップチャンネル.png" group-title="ショッピング",ショップチャンネル
+#EXTINF:-1 tvg-id="Shop_Channel" tvg-name="ショップチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ショップチャンネル.png" group-title="CS",ショップチャンネル
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 #EXTINF:-1 tvg-dt="98" tvg-id="rch_98" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png" group-title="RAKUTEN",セクシーエンタメチャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
