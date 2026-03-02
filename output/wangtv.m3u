@@ -237,6 +237,12 @@ https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-name="NEWS_NATION" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NEWS_NATION.png" group-title="国际新闻",NEWS_NATION
 https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae@HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/adt.png" group-title="国际新闻",Abu Dhabi Emirates (1080p)
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
+#EXTINF:-1 tvg-id="DubaiOne.ae@SD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/dubaione.png" group-title="国际新闻",Dubai One (1080p)
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxnews.png" group-title="国际新闻",Fox News Channel (720p)
+#EXTVLCOPT:http-referrer=https://www.newslive.com/
 #EXTINF:-1 tvg-id="BRTV新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="北京频道",BRTV新闻
 http://m.061899.xyz/mg/bjxw
 #EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.cn/tv/北京体育休闲.png" group-title="北京频道",BRTV体育休闲
