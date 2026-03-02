@@ -13,7 +13,7 @@ http://cdn6.163189.xyz/163189/fhzx
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="港澳",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 tvg-id="星空国际" tvg-name="星空国际" tvg-logo="https://live.fanmingming.cn/tv/星空国际.png" group-title="港澳",星空国际
+#EXTINF:-1 tvg-id="星空国际" tvg-name="星空国际" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="港澳",星空国际
 http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="港澳",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
