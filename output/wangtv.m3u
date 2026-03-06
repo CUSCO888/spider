@@ -93,16 +93,8 @@ http://74.91.26.218:82/live/ctsnews.m3u8
 http://74.91.26.218:82/live/ftvdy.m3u8
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/民视台湾.png" group-title="台湾",民视台湾
 http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/中视.png" group-title="台湾",中视蓝
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/华视.png" group-title="台湾",华视绿
-rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/公视.png" group-title="台湾",公视中
 http://211.72.174.95:8116/0.ts
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/民视.png" group-title="台湾",民视绿
-rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/台视.png" group-title="台湾",台视中
-rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/民視綜藝.png" group-title="台湾",民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/TVBS精采.png" group-title="台湾",TVBS精采
@@ -165,20 +157,6 @@ http://74.91.26.218:82/live/ptsse.m3u8
 http://74.91.26.218:82/live/ctsjy.m3u8
 #EXTINF:-1 tvg-name="公视台语" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/公视台语.png" group-title="台湾",公视台语
 http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/纬来体育.png" group-title="台湾",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/纬来育乐.png" group-title="台湾",纬来育乐
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/纬来日本.png" group-title="台湾",纬来日本
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/东森超视.png" group-title="台湾",东森超视
-rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-name="MoMo综合" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MoMo综合.png" group-title="台湾",MoMo综合
-rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-name="ELEVEN体育1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ELEVEN体育1.png" group-title="台湾",ELEVEN体育1
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-name="ELEVEN体育2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ELEVEN体育2.png" group-title="台湾",ELEVEN体育2
-rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="国际新闻",Al Jazeera
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishUSA.il" tvg-name="i24NEWS English USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="国际新闻",以色列i24NEWS
