@@ -1,25 +1,25 @@
-import time
-import asyncio
 import aiohttp
+import asyncio
 
-async def validate_urls(urls):
-    """并发验证一组 URL，返回有效的并按速度排序"""
-    valid_list = []
-    async def check(session, url):
+class Validator:
+    def __init__(self):
+        self.headers = {
+            "User-Agent": "VLC/3.0.12 LibVLC/3.0.12",
+            "Accept": "*/*"
+        }
+
+    async def validate(self, url):
         try:
-            start = time.time()
-            async with session.get(url, timeout=5, ssl=False) as resp:
-                if resp.status == 200:
-                    cost = (time.time() - start) * 1000
-                    return (url, cost)
+            async with aiohttp.ClientSession() as session:
+                # 增加 allow_redirects=True 处理跳转源
+                async with session.get(url, timeout=8, headers=self.headers, allow_redirects=True) as response:
+                    if response.status == 200:
+                        ct = response.headers.get('Content-Type', '').lower()
+                        # 必须包含视频流或 M3U 特征
+                        if any(x in ct for x in ['video', 'mpegurl', 'octet-stream', 'application/x-mpegurl']):
+                            # 尝试读取数据片段，确保不是空流
+                            content = await response.content.read(512)
+                            return len(content) > 0
         except:
             pass
-        return None
-
-    urls = list(set(urls))
-    async with aiohttp.ClientSession() as session:
-        tasks = [check(session, u) for u in urls]
-        results = await asyncio.gather(*tasks)
-        results_filtered = [r for r in results if r]
-        results_filtered.sort(key=lambda x: x[1])
-    return [v[0] for v in results_filtered]
+        return False
