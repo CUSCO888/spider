@@ -24,13 +24,23 @@ jobs:
 
       - name: Run spider update
         run: |
+          # 这一步负责初始抓取，生成 output/merged.m3u
           python main.py
+
+      - name: Run checker and fixer
+        run: |
+          # 这一步负责检测刚才生成的列表，并尝试修复失效地址
+          # 如果你在脚本里设置输出为 cleaned.m3u，这里会处理它
+          python checker_and_fixer.py
 
       - name: Commit and push changes
         run: |
           git config --global user.email "cusco888@outlook.com"
           git config --global user.name "CUSCO888"
+          
+          # 确保将所有生成的 m3u 文件（包括修复后的）都加入暂存区
           git add output/*.m3u
+          
           # 只有在有变动时才提交，防止报错
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update IPTV sources [$(date '+%Y-%m-%d %H:%M:%S')]"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update and fix IPTV sources [$(date '+%Y-%m-%d %H:%M:%S')]"
           git push
