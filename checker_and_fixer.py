@@ -1,66 +1,93 @@
-import requests
-import concurrent.futures
-from your_spider_module import search_fofa_for_channel # 假设这是你现有的爬虫函数
+import asyncio
+import aiohttp
+import re
+import os
+from spider import Spider  # 导入你现有的类
 
-# --- 配置区 ---
-SOURCE_FILE = "output/merged.m3u"
-TIMEOUT = 5  # 检测超时时间（秒）
-MAX_WORKERS = 10 # 并发检测线程数
-UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+# --- 配置 ---
+INPUT_FILE = "output/merged.m3u"
+OUTPUT_FILE = "output/cleaned.m3u" # 建议先输出到新文件，确认无误再覆盖
+CONCURRENT_LIMIT = 20  # 同时检测的连接数
+TIMEOUT = 5            # 每个链接的超时时间（秒）
 
-class IPTVManager:
-    def __init__(self, filepath):
-        self.filepath = filepath
-        self.channels = [] # 格式: [{"name": "CCTV1", "url": "http://...", "valid": True}]
+class IPTVFixer:
+    def __init__(self):
+        self.spider = Spider()
+        self.semaphore = asyncio.Semaphore(CONCURRENT_LIMIT)
 
-    def check_url(self, channel):
+    async def check_url(self, session, url):
         """检测单个 URL 是否有效"""
-        try:
-            # 使用 HEAD 请求节省带宽，模拟真实播放器 UA
-            response = requests.head(channel['url'], timeout=TIMEOUT, headers={"User-Agent": UA}, allow_redirects=True)
-            if response.status_code == 200:
-                return True
-        except:
-            pass
-        return False
+        async with self.semaphore:
+            try:
+                # 模拟播放器 UA
+                headers = {"User-Agent": "VLC/3.0.12 LibVLC/3.0.12"}
+                async with session.get(url, timeout=TIMEOUT, headers=headers) as response:
+                    # 只要状态码是 200，且内容类型看起来像视频流
+                    if response.status == 200:
+                        return True
+            except:
+                pass
+            return False
 
-    def run_check(self):
-        """并发检测所有频道"""
-        print(f"开始检测 {len(self.channels)} 个频道...")
-        with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            future_to_ch = {executor.submit(self.check_url, ch): ch for ch in self.channels}
-            for future in concurrent.futures.as_completed(future_to_ch):
-                ch = future_to_ch[future]
-                ch['valid'] = future.result()
+    def parse_m3u(self, content):
+        """简单的 M3U 解析，提取频道名和 URL"""
+        items = []
+        current_item = {}
+        for line in content.splitlines():
+            if line.startswith("#EXTINF"):
+                name = line.split(",")[-1].strip()
+                current_item = {"name": name, "line": line}
+            elif line.startswith("http"):
+                current_item["url"] = line.strip()
+                items.append(current_item)
+                current_item = {}
+        return items
 
-    def fix_invalid_channels(self):
-        """核心：对失效的频道重新触发抓取"""
-        for ch in self.channels:
-            if not ch['valid']:
-                print(f"检测到失效: {ch['name']}，正在重新获取...")
-                # 调用你现有的爬虫逻辑去搜新地址
-                new_urls = search_fofa_for_channel(ch['name']) 
-                
-                if new_urls:
-                    # 对搜到的新地址进行“速检”，选出第一个可用的
-                    for new_url in new_urls:
-                        if self.check_url({"url": new_url}):
-                            print(f"成功修复 {ch['name']} -> {new_url}")
-                            ch['url'] = new_url
-                            ch['valid'] = True
-                            break
+    async def process(self):
+        if not os.path.exists(INPUT_FILE):
+            print(f"文件 {INPUT_FILE} 不存在，请先运行 spider.py")
+            return
+
+        with open(INPUT_FILE, "r", encoding="utf-8") as f:
+            content = f.read()
+
+        channels = self.parse_m3u(content)
+        print(f"开始检测 {len(channels)} 个频道...")
+
+        async with aiohttp.ClientSession() as session:
+            # 1. 批量检测现有链接
+            tasks = [self.check_url(session, ch['url']) for ch in channels]
+            results = await asyncio.gather(*tasks)
+
+            final_m3u = ["#EXTM3U"]
+            
+            for i, is_valid in enumerate(results):
+                ch = channels[i]
+                if is_valid:
+                    final_m3u.append(ch['line'])
+                    final_m3u.append(ch['url'])
                 else:
-                    print(f"未能找到 {ch['name']} 的可用新源")
+                    print(f"发现失效: {ch['name']}，尝试重新搜索...")
+                    # 2. 调用你 spider.py 里的 search 方法
+                    new_links = await self.spider.search(ch['name'])
+                    
+                    found_fix = False
+                    for link in new_links:
+                        if await self.check_url(session, link):
+                            print(f"✅ 已修复 {ch['name']}: {link}")
+                            final_m3u.append(ch['line'])
+                            final_m3u.append(link)
+                            found_fix = True
+                            break
+                    
+                    if not found_fix:
+                        print(f"❌ 无法修复 {ch['name']}")
 
-    def save_results(self):
-        """覆盖原始 M3U 文件"""
-        # 这里编写将 self.channels 写回 M3U 格式的逻辑
-        pass
+        # 3. 保存结果
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(final_m3u))
+        print(f"任务完成！结果已保存至 {OUTPUT_FILE}")
 
-# --- 主程序 ---
 if __name__ == "__main__":
-    manager = IPTVManager(SOURCE_FILE)
-    # 1. 加载现有的 m3u
-    # 2. manager.run_check()
-    # 3. manager.fix_invalid_channels()
-    # 4. manager.save_results()
+    fixer = IPTVFixer()
+    asyncio.run(fixer.process())
