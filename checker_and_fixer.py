@@ -2,7 +2,21 @@ import asyncio
 import aiohttp
 import re
 import os
-from spider import Spider  # 导入你现有的类
+import sys
+
+# --- 核心修复：手动指定路径，防止 GitHub Actions 找不到 spider.py ---
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+try:
+    from spider import Spider
+except ImportError:
+    import importlib.util
+    # 尝试直接通过文件路径加载 spider.py
+    spec = importlib.util.spec_from_file_location("spider", os.path.join(os.getcwd(), "spider.py"))
+    spider_mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(spider_mod)
+    Spider = spider_mod.Spider
+# ------------------------------------------------------------------
 
 # --- 配置 ---
 INPUT_FILE = "output/merged.m3u"
