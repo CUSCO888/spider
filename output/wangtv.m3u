@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/CUSCO888/epg/master/guide.xml,https://epg.112114.xyz/pp.xml,http://e.erw.cc/e.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/CUSCO888/epg/master/guide.xml,https://epg.112114.xyz/pp.xml,https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz"
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳",凤凰资讯
