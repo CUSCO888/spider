@@ -1,139 +1,139 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="地上波",NHKG HD
+#EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="地上波",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
-#EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKE.png" group-title="地上波",NHKE HD
+#EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKE.png" group-title="地上波",NHKE HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
-#EXTINF:-1 tvg-id="Nippon_TV" tvg-name="日テレHD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/日テレ.png" group-title="地上波",日テレHD
+#EXTINF:-1 tvg-id="Nippon_TV" tvg-name="日テレHD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/日テレ.png" group-title="地上波",日テレHD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tbs.png" group-title="地上波",TBS HD
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tbs.png" group-title="地上波",TBS HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
-#EXTINF:-1 tvg-id="Fuji_TV" tvg-name="フジテレビHD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/フジテレビ.png" group-title="地上波",フジテレビHD
+#EXTINF:-1 tvg-id="Fuji_TV" tvg-name="フジテレビHD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/フジテレビ.png" group-title="地上波",フジテレビHD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
-#EXTINF:-1 tvg-id="TV_Asahi" tvg-name="テレビ朝日HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tv 朝日.png" group-title="地上波",テレビ朝日HD
+#EXTINF:-1 tvg-id="TV_Asahi" tvg-name="テレビ朝日HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tv 朝日.png" group-title="地上波",テレビ朝日HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
-#EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/テレ東.jpg" group-title="地上波",テレビ東京HD
+#EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/テレ東.jpg" group-title="地上波",テレビ東京HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
-#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Tokyo MX1.jpg" group-title="地上波",TOKYO MX1 HD
+#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX1.jpg" group-title="地上波",TOKYO MX1 HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
-#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Tokyo MX2.jpg" group-title="地上波",TOKYO MX2
+#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX2.jpg" group-title="地上波",TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 tvg-id="TV_Osaka" tvg-name="テレビ大阪" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/テレビ大阪.png" group-title="地上波",テレビ大阪
+#EXTINF:-1 tvg-id="TV_Osaka" tvg-name="テレビ大阪" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/テレビ大阪.png" group-title="地上波",テレビ大阪
 https://nl.utako.moe/tvo/index.m3u8
-#EXTINF:-1 tvg-id="Kansai_TV" tvg-name="関西テレビ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/関西テレビ.jpg" group-title="地上波",関西テレビ
+#EXTINF:-1 tvg-id="Kansai_TV" tvg-name="関西テレビ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/関西テレビ.jpg" group-title="地上波",関西テレビ
 https://nl.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 tvg-id="Yomiuri_TV" tvg-name="読売テレビ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/読売テレビ.png" group-title="地上波",読売テレビ
+#EXTINF:-1 tvg-id="Yomiuri_TV" tvg-name="読売テレビ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/読売テレビ.png" group-title="地上波",読売テレビ
 https://nl.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="MBS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Mainichi.png", MBS毎日放送
+#EXTINF:-1 group-title="地上波" tvg-id="MBS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Mainichi.png", MBS毎日放送
 http://nl.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="ABC_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ABCAsahi.png", ABC朝日放送
+#EXTINF:-1 group-title="地上波" tvg-id="ABC_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ABCAsahi.png", ABC朝日放送
 http://nl.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="KBS_Kyoto" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Kbs.png",KBS京都
+#EXTINF:-1 group-title="地上波" tvg-id="KBS_Kyoto" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Kbs.png",KBS京都
 http://nl.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="Sun_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/SUN.png", サンテレビ
+#EXTINF:-1 group-title="地上波" tvg-id="Sun_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/SUN.png", サンテレビ
 http://nl.utako.moe/suntv/index.m3u8
-#EXTINF:-1 tvg-id="NHK_BS" tvg-name="NHK BS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKBS.png" group-title="BS",NHK BS
+#EXTINF:-1 tvg-id="NHK_BS" tvg-name="NHK BS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS.png" group-title="BS",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 tvg-id="BS_NTV" tvg-name="BS日テレ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BS日テレ.png" group-title="BS",BS日テレ
+#EXTINF:-1 tvg-id="BS_NTV" tvg-name="BS日テレ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BS日テレ.png" group-title="BS",BS日テレ
 https://nl.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 tvg-id="BS_Asahi" tvg-name="BS朝日" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BS朝日.jpg" group-title="BS",BS朝日
+#EXTINF:-1 tvg-id="BS_Asahi" tvg-name="BS朝日" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BS朝日.jpg" group-title="BS",BS朝日
 https://nl.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 tvg-id="BS_TBS" tvg-name="BS TBS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/bstbs.jpg" group-title="BS",BS TBS
+#EXTINF:-1 tvg-id="BS_TBS" tvg-name="BS TBS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bstbs.jpg" group-title="BS",BS TBS
 https://nl.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 tvg-id="BS_TVTokyo" tvg-name="BSテレ東" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BSテレ東.jpg" group-title="BS",BSテレ東
+#EXTINF:-1 tvg-id="BS_TVTokyo" tvg-name="BSテレ東" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BSテレ東.jpg" group-title="BS",BSテレ東
 https://nl.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 tvg-id="BS_Fuji" tvg-name="BSフジ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BSフジ.png" group-title="BS",BSフジ
+#EXTINF:-1 tvg-id="BS_Fuji" tvg-name="BSフジ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BSフジ.png" group-title="BS",BSフジ
 https://nl.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 tvg-id="BS10" tvg-name="BS 10 Premium" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BS10プレミアム.jpg" group-title="BS",BS 10 Premium
+#EXTINF:-1 tvg-id="BS10" tvg-name="BS 10 Premium" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BS10プレミアム.jpg" group-title="BS",BS 10 Premium
 https://nl.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 tvg-id="BS11" tvg-name="BS11" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BS11.png" group-title="BS",BS11
+#EXTINF:-1 tvg-id="BS11" tvg-name="BS11" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BS11.png" group-title="BS",BS11
 https://nl.utako.moe/BS11/index.m3u8
-#EXTINF:-1 tvg-id="NHK_BS4K" tvg-name="NHK BS4K" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKBS4K.jpg" group-title="BS",NHK BS4K
+#EXTINF:-1 tvg-id="NHK_BS4K" tvg-name="NHK BS4K" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS4K.jpg" group-title="BS",NHK BS4K
 https://nl.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 tvg-id="Nittele_G_plus" tvg-name="日テレ G+" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/日テレG+.jpg" group-title="CS",日テレ G+
+#EXTINF:-1 tvg-id="Nittele_G_plus" tvg-name="日テレ G+" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/日テレG+.jpg" group-title="CS",日テレ G+
 https://nl.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 tvg-id="TBS_Ch1" tvg-name="TBS Ch1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tbsch1.jpg" group-title="CS",TBS Channel 1
+#EXTINF:-1 tvg-id="TBS_Ch1" tvg-name="TBS Ch1" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tbsch1.jpg" group-title="CS",TBS Channel 1
 https://nl.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 tvg-id="TBS_Ch2" tvg-name="TBS Ch2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tbsch2.jpg" group-title="CS",TBS Channel 2
+#EXTINF:-1 tvg-id="TBS_Ch2" tvg-name="TBS Ch2" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tbsch2.jpg" group-title="CS",TBS Channel 2
 https://nl.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 tvg-id="TV_Asahi_Ch1" tvg-name="テレ朝 Channel 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tv-asahi-ch1.jpg" group-title="CS",テレ朝 Ch1
+#EXTINF:-1 tvg-id="TV_Asahi_Ch1" tvg-name="テレ朝 Channel 1" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tv-asahi-ch1.jpg" group-title="CS",テレ朝 Ch1
 https://nl.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 tvg-id="TV_Asahi_Ch2" tvg-name="テレ朝 Channel 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tv-asahi-ch2.jpg" group-title="CS",テレ朝 Ch2
+#EXTINF:-1 tvg-id="TV_Asahi_Ch2" tvg-name="テレ朝 Channel 2" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tv-asahi-ch2.jpg" group-title="CS",テレ朝 Ch2
 https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 tvg-id="Fuji_One" tvg-name="フジテレビONE" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/フジテレビONE.jpg" group-title="CS",フジテレビONE
+#EXTINF:-1 tvg-id="Fuji_One" tvg-name="フジテレビONE" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/フジテレビONE.jpg" group-title="CS",フジテレビONE
 https://nl.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 tvg-id="Fuji_Two" tvg-name="フジテレビTWO" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/フジテレビTWO.png" group-title="CS",フジテレビTWO
+#EXTINF:-1 tvg-id="Fuji_Two" tvg-name="フジテレビTWO" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/フジテレビTWO.png" group-title="CS",フジテレビTWO
 https://nl.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 tvg-id="Fuji_Next" tvg-name="フジテレビNEXT" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/フジテレビNEXT.png" group-title="CS",フジテレビNEXT
+#EXTINF:-1 tvg-id="Fuji_Next" tvg-name="フジテレビNEXT" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/フジテレビNEXT.png" group-title="CS",フジテレビNEXT
 https://nl.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-name="WOWOW Prime" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/wowowprime.jpg" group-title="WOWOW",WOWOW Prime
+#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-name="WOWOW Prime" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowprime.jpg" group-title="WOWOW",WOWOW Prime
 https://nl.utako.moe/wprime/index.m3u8
-#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/wowowcinema.jpg" group-title="WOWOW",WOWOW Cinema
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowcinema.jpg" group-title="WOWOW",WOWOW Cinema
 https://nl.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/wowowlive.jpg" group-title="WOWOW",WOWOW Live
+#EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowlive.jpg" group-title="WOWOW",WOWOW Live
 https://nl.utako.moe/wlive/index.m3u8
-#EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="JSport 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports1.png" group-title="CSスポーツ",JSport 1
+#EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="JSport 1" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports1.png" group-title="CSスポーツ",JSport 1
 https://nl.utako.moe/js1/index.m3u8
-#EXTINF:-1 tvg-id="J_SPORTS_2" tvg-name="JSport 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports2.png" group-title="CSスポーツ",JSport 2
+#EXTINF:-1 tvg-id="J_SPORTS_2" tvg-name="JSport 2" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports2.png" group-title="CSスポーツ",JSport 2
 https://nl.utako.moe/js2/index.m3u8
-#EXTINF:-1 tvg-id="J_SPORTS_3" tvg-name="JSport 3" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports3.jpg" group-title="CSスポーツ",JSport 3
+#EXTINF:-1 tvg-id="J_SPORTS_3" tvg-name="JSport 3" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports3.jpg" group-title="CSスポーツ",JSport 3
 https://nl.utako.moe/js3/index.m3u8
-#EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="JSport 4" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Jsports4.jpg" group-title="CSスポーツ",JSport 4
+#EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="JSport 4" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports4.jpg" group-title="CSスポーツ",JSport 4
 https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1 tvg-id="GAORA" tvg-name="Gaora Sports" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/GAORA_SPORTS.png" group-title="CSスポーツ",Gaora Sports
+#EXTINF:-1 tvg-id="GAORA" tvg-name="Gaora Sports" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/GAORA_SPORTS.png" group-title="CSスポーツ",Gaora Sports
 https://nl.utako.moe/gaora/index.m3u8
-#EXTINF:-1 tvg-id="Sport_Live_Plus" tvg-name="Sport Live Plus" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/sportsliveplus.jpg" group-title="CSスポーツ",スポーツライフ＋
+#EXTINF:-1 tvg-id="Sport_Live_Plus" tvg-name="Sport Live Plus" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/sportsliveplus.jpg" group-title="CSスポーツ",スポーツライフ＋
 https://nl.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 tvg-id="Golf_Network" tvg-name="ゴルフネットワーク" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/golfnetwork.jpg" group-title="CSスポーツ",ゴルフネットワーク
+#EXTINF:-1 tvg-id="Golf_Network" tvg-name="ゴルフネットワーク" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/golfnetwork.jpg" group-title="CSスポーツ",ゴルフネットワーク
 https://nl.utako.moe/golf_network/index.m3u8
-#EXTINF:-1 tvg-id="Sky_A" tvg-name="スカイA" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/スカイA.jpg" group-title="CSスポーツ",スカイA
+#EXTINF:-1 tvg-id="Sky_A" tvg-name="スカイA" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/スカイA.jpg" group-title="CSスポーツ",スカイA
 https://nl.utako.moe/skya/index.m3u8
-#EXTINF:-1 tvg-id="Fighting_TV_Samurai" tvg-name="Fighting TV Samurai" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/FightingTVSamurai.png" group-title="CSスポーツ",FightingTVサムライ
+#EXTINF:-1 tvg-id="Fighting_TV_Samurai" tvg-name="Fighting TV Samurai" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/FightingTVSamurai.png" group-title="CSスポーツ",FightingTVサムライ
 https://nl.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 tvg-id="Green_Channel" tvg-name="Green Channel" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/greenHD.png" group-title="CSスポーツ",Green Ch
+#EXTINF:-1 tvg-id="Green_Channel" tvg-name="Green Channel" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/greenHD.png" group-title="CSスポーツ",Green Ch
 https://nl.utako.moe/green/index.m3u8
-#EXTINF:-1 tvg-id="Entame_Tele" tvg-name="エンタメテレ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/エンタメテレ.jpg" group-title="CSスポーツ",エンタメテレ
+#EXTINF:-1 tvg-id="Entame_Tele" tvg-name="エンタメテレ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/エンタメテレ.jpg" group-title="CSスポーツ",エンタメテレ
 https://nl.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 tvg-id="Tabi_Ch" tvg-name="旅" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/旅Tabi Channel.png" group-title="CS",旅Tabi Ch
+#EXTINF:-1 tvg-id="Tabi_Ch" tvg-name="旅" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/旅Tabi Channel.png" group-title="CS",旅Tabi Ch
 https://nl.utako.moe/tabi/index.m3u8
-#EXTINF:-1 tvg-id="The_Cinema" tvg-name="The Cinema" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/thecinema.jpg" group-title="CS映画",The Cinema
+#EXTINF:-1 tvg-id="The_Cinema" tvg-name="The Cinema" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/thecinema.jpg" group-title="CS映画",The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
-#EXTINF:-1 tvg-id="Disney_Channel" tvg-name="ディズニーチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ディズニーチャンネル.jpg" group-title="CS映画",ディズニーチャンネル
+#EXTINF:-1 tvg-id="Disney_Channel" tvg-name="ディズニーチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ディズニーチャンネル.jpg" group-title="CS映画",ディズニーチャンネル
 https://nl.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 tvg-id="Family_Gekijyo" tvg-name="ファミリー劇場" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/familygeki.jpg" group-title="CS映画",ファミリー劇場
+#EXTINF:-1 tvg-id="Family_Gekijyo" tvg-name="ファミリー劇場" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/familygeki.jpg" group-title="CS映画",ファミリー劇場
 https://nl.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 tvg-id="Monodo_TV" tvg-name="Mondo TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/mondotv.jpg" group-title="CS映画",Mondo TV
+#EXTINF:-1 tvg-id="Monodo_TV" tvg-name="Mondo TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/mondotv.jpg" group-title="CS映画",Mondo TV
 https://nl.utako.moe/mondo/index.m3u8
-#EXTINF:-1 tvg-id="Home_Drama_Channel" tvg-name="ホームドラマチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/homedrama.jpg" group-title="CS映画",ホームドラマチャンネル
+#EXTINF:-1 tvg-id="Home_Drama_Channel" tvg-name="ホームドラマチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/homedrama.jpg" group-title="CS映画",ホームドラマチャンネル
 https://nl.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 tvg-id="Channel_Ginga" tvg-name="チャンネル银河" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/チャンネル銀河.jpg" group-title="CS映画",チャンネル银河
+#EXTINF:-1 tvg-id="Channel_Ginga" tvg-name="チャンネル银河" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/チャンネル銀河.jpg" group-title="CS映画",チャンネル银河
 https://nl.utako.moe/gingach/index.m3u8
-#EXTINF:-1 tvg-id="Neco" tvg-name="Neco Channel" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/neco.jpg" group-title="CS映画",Neco Ch
+#EXTINF:-1 tvg-id="Neco" tvg-name="Neco Channel" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/neco.jpg" group-title="CS映画",Neco Ch
 https://nl.utako.moe/neco/index.m3u8
-#EXTINF:-1 tvg-id="Dlife" tvg-name="Dlife" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/dlife.png" group-title="CS映画",Dlife
+#EXTINF:-1 tvg-id="Dlife" tvg-name="Dlife" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/dlife.png" group-title="CS映画",Dlife
 https://nl.utako.moe/dlife/index.m3u8
-#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="東映ch" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/東映ch.png" group-title="CS映画",東映ch
+#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="東映ch" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/東映ch.png" group-title="CS映画",東映ch
 https://nl.utako.moe/toei/index.m3u8
-#EXTINF:-1 tvg-id="Nihon_Eiga_Special" tvg-name="日本映画専門" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/日本映画専門.jpg" group-title="CS映画",日本映画専門
+#EXTINF:-1 tvg-id="Nihon_Eiga_Special" tvg-name="日本映画専門" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/日本映画専門.jpg" group-title="CS映画",日本映画専門
 https://nl.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/animax.jpg" group-title="CSアニメ",Animax
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/animax.jpg" group-title="CSアニメ",Animax
 https://nl.utako.moe/Animax/index.m3u8
-#EXTINF:-1 tvg-id="AT_X" tvg-name="AT-X" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/at-x.jpg" group-title="CSアニメ",AT-X
+#EXTINF:-1 tvg-id="AT_X" tvg-name="AT-X" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/at-x.jpg" group-title="CSアニメ",AT-X
 https://nl.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon_Network" tvg-name="Cartoon Network" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Cartoon-Network.png" group-title="CSアニメ",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon_Network" tvg-name="Cartoon Network" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Cartoon-Network.png" group-title="CSアニメ",Cartoon Network
 https://nl.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 tvg-id="Kids_Station" tvg-name="キッズステーション" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/キッズステション.jpg" group-title="CSアニメ",キッズステーション
+#EXTINF:-1 tvg-id="Kids_Station" tvg-name="キッズステーション" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/キッズステション.jpg" group-title="CSアニメ",キッズステーション
 https://nl.utako.moe/kids_station/index.m3u8
-#EXTINF:-1 tvg-id="Space_Shower_TV" tvg-name="スペースシャワーTV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/スペースシャワーTV.jpg" group-title="CS音楽",Space Shower TV
+#EXTINF:-1 tvg-id="Space_Shower_TV" tvg-name="スペースシャワーTV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/スペースシャワーTV.jpg" group-title="CS音楽",Space Shower TV
 https://nl.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 tvg-id="MTV_Japan" tvg-name="MTV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MTV.jpg" group-title="CS音楽",MTV
+#EXTINF:-1 tvg-id="MTV_Japan" tvg-name="MTV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/MTV.jpg" group-title="CS音楽",MTV
 https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 tvg-id="Kayo_Pops" tvg-name="歌谣ポップス" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/歌謡ポップス.png" group-title="CS音楽",歌谣ポップス
+#EXTINF:-1 tvg-id="Kayo_Pops" tvg-name="歌谣ポップス" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/歌謡ポップス.png" group-title="CS音楽",歌谣ポップス
 https://nl.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 tvg-id="Music_On_TV" tvg-name="Music ON TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/musicon.jpg" group-title="CS音楽",Music ON TV
+#EXTINF:-1 tvg-id="Music_On_TV" tvg-name="Music ON TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/musicon.jpg" group-title="CS音楽",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
-#EXTINF:-1 tvg-id="QVC_Japan" tvg-name="QVC Japan" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/QVC.png" group-title="ショッピング",QVC Japan
+#EXTINF:-1 tvg-id="QVC_Japan" tvg-name="QVC Japan" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/QVC.png" group-title="ショッピング",QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 tvg-id="Shop_Channel" tvg-name="ショップチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ショップチャンネル.png" group-title="ショッピング",ショップチャンネル
+#EXTINF:-1 tvg-id="Shop_Channel" tvg-name="ショップチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ショップチャンネル.png" group-title="ショッピング",ショップチャンネル
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 #EXTINF:-1 tvg-dt="98" tvg-id="rch_98" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png" group-title="RAKUTEN",セクシーエンタメチャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
@@ -145,17 +145,17 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-dt="42" tvg-id="rch_42" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="RAKUTEN",映画（R15+）
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-dt="43" tvg-id="Pigoo" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/pigoo.png" group-title="RAKUTEN",Pigoo
+#EXTINF:-1 tvg-dt="43" tvg-id="Pigoo" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/pigoo.png" group-title="RAKUTEN",Pigoo
 http://nl.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 tvg-dt="44" tvg-id="V_Paradise" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/paradise.png" group-title="RAKUTEN",パラダイス
+#EXTINF:-1 tvg-dt="44" tvg-id="V_Paradise" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/paradise.png" group-title="RAKUTEN",パラダイス
 http://nl.utako.moe/v_paradise/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News",Al Jazeera
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishUSA.il" tvg-name="i24NEWS English USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",i24NEWS
 https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
-#EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Newsmax.png" group-title="News",Newsmax
+#EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Newsmax.png" group-title="News",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CNN.png" group-title="News",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/CNN.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="News",NBC News NOW
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
@@ -165,15 +165,15 @@ https://amg01076-lightningintern-gbnewsnz-samsungnz-rlcsd.amagi.tv/playlist/amg0
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/VOA美國之音.png" group-title="News",VOA
+#EXTINF:-1 tvg-name="VOA美國之音" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/VOA美國之音.png" group-title="News",VOA
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-#EXTINF:-1 tvg-name="WionNews" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/WionNews.png" group-title="News",WionNews
+#EXTINF:-1 tvg-name="WionNews" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/WionNews.png" group-title="News",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BLOOMBERG.png" group-title="News",BLOOMBERG
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BLOOMBERG.png" group-title="News",BLOOMBERG
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" group-title="News",Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MLB_NETWORK.png" group-title="News",MLB_NETWORK
+#EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/MLB_NETWORK.png" group-title="News",MLB_NETWORK
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
