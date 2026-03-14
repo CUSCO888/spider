@@ -27,9 +27,6 @@ https://yahoo-plex.amagi.tv/playlist.m3u8
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/MLB_NETWORK.png" group-title="News",MLB_NETWORK
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-
-
-#EXTM3U
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="地上波",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKE.png" group-title="地上波",NHKE HD
@@ -54,12 +51,14 @@ https://nl.utako.moe/tvo/index.m3u8
 https://nl.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 tvg-id="Yomiuri_TV" tvg-name="読売テレビ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ytv.png" group-title="地上波",読売テレビ
 https://nl.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="MBS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Mainichi.png", MBS毎日放送
+#EXTINF:-1 group-title="地上波" tvg-id="MBS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Mainichi.png" group-title="地上波",MBS毎日放送
 http://nl.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="ABC_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ABCAsahi.png", ABC朝日放送
+#EXTINF:-1 group-title="地上波" tvg-id="ABC_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ABCAsahi.png" group-title="地上波",ABC朝日放送
 http://nl.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="KBS_Kyoto" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Kbs.png",KBS京都
+#EXTINF:-1 group-title="地上波" tvg-id="KBS_Kyoto" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Kbs.png" group-title="地上波",KBS京都
 http://nl.utako.moe/kbs/index.m3u8
+#EXTINF:-1 group-title="地上波" tvg-id="Sun_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/SUN.png" group-title="地上波",サンテレビ
+http://nl.utako.moe/suntv/index.m3u8
 #EXTINF:-1 group-title="地上波" tvg-id="Sun_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/SUN.png", サンテレビ
 http://nl.utako.moe/suntv/index.m3u8
 #EXTINF:-1 tvg-id="NHK_BS" tvg-name="NHK BS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS.png" group-title="BS",NHK BS
