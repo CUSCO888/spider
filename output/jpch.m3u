@@ -40,13 +40,13 @@ https://nl.utako.moe/tvo/index.m3u8
 https://nl.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 tvg-id="Yomiuri_TV" tvg-name="読売テレビ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ytv.png" group-title="地上波",読売テレビ
 https://nl.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="MBS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Mainichi.png", MBS毎日放送
+#EXTINF:-1 group-title="地上波" tvg-id="MBS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Mainichi.png" group-title="地上波",MBS毎日放送
 http://nl.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="ABC_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ABCAsahi.png", ABC朝日放送
+#EXTINF:-1 group-title="地上波" tvg-id="ABC_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ABCAsahi.png" group-title="地上波",ABC朝日放送
 http://nl.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="KBS_Kyoto" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Kbs.png",KBS京都
+#EXTINF:-1 group-title="地上波" tvg-id="KBS_Kyoto" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Kbs.png" group-title="地上波",KBS京都
 http://nl.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="地上波" tvg-id="Sun_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/SUN.png", サンテレビ
+#EXTINF:-1 group-title="地上波" tvg-id="Sun_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/SUN.png" group-title="地上波",サンテレビ
 http://nl.utako.moe/suntv/index.m3u8
 #EXTINF:-1 tvg-id="NHK_BS" tvg-name="NHK BS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS.png" group-title="BS",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
