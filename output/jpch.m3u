@@ -49,6 +49,13 @@ http://nl.utako.moe/kbs/index.m3u8
 http://nl.utako.moe/suntv/index.m3u8
 #EXTINF:-1 tvg-id="NHK_BS" tvg-name="NHK BS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS.png" group-title="BS",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 tvg-id="NHK_BS4K" tvg-name="NHK BS4K" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS4K.jpg" group-title="BS",NHK BS4K
+https://nl.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/nhkworld.png" group-title="BS",NHK World
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/nhkwp.png" group-title="BS",NHK World Premium
+https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
 #EXTINF:-1 tvg-id="BS_NTV" tvg-name="BS日テレ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BSntv.png" group-title="BS",BS日テレ
 https://nl.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 tvg-id="BS_Asahi" tvg-name="BS朝日" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BSasahi.jpg" group-title="BS",BS朝日
@@ -63,8 +70,7 @@ https://nl.utako.moe/bsfuji/index.m3u8
 https://nl.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 tvg-id="BS11" tvg-name="BS11" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BS11.png" group-title="BS",BS11
 https://nl.utako.moe/BS11/index.m3u8
-#EXTINF:-1 tvg-id="NHK_BS4K" tvg-name="NHK BS4K" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS4K.jpg" group-title="BS",NHK BS4K
-https://nl.utako.moe/bsp4k/index.m3u8
+
 #EXTINF:-1 tvg-id="BSShochikuTokyu.jp" tvg-name="BS松竹東急" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/shochiku.png" group-title="BS",BS松竹東急
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #EXTINF:-1 tvg-id="GreenChannel.jp" tvg-name="グリーンチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/green.png" group-title="BS",グリーンチャンネル
