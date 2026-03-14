@@ -79,8 +79,6 @@ https://nl.utako.moe/BS11/index.m3u8
 https://nl.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-id="BSShochikuTokyu.jp" tvg-name="BS松竹東急" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/shochiku.png" group-title="BS",BS松竹東急
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-#EXTINF:-1 tvg-id="GreenChannel.jp" tvg-name="グリーンチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/green.png" group-title="BS",グリーンチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 tvg-id="Nittele_G_plus" tvg-name="日テレ G+" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ntvg.jpg" group-title="CS",日テレ G+
 https://nl.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 tvg-id="TBS_Ch1" tvg-name="TBS Ch1" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tbsch1.jpg" group-title="CS",TBS Channel 1
