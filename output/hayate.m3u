@@ -91,15 +91,15 @@ https://nl.utako.moe/tbsch2/index.m3u8
 https://nl.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 tvg-id="TV_Asahi_Ch2" tvg-name="テレ朝 Channel 2" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tv-asahi-ch2.jpg" group-title="CS",テレ朝 Ch2
 https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 tvg-id="Fuji_One" tvg-name="フジテレビONE" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fujione.jpg" group-title="CS",フジテレビONE
+#EXTINF:-1 tvg-id="Fuji_TV_One" tvg-name="フジテレビONE" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fujione.jpg" group-title="CS",フジテレビONE
 https://nl.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 tvg-id="Fuji_Two" tvg-name="フジテレビTWO" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fujitwo.png" group-title="CS",フジテレビTWO
+#EXTINF:-1 tvg-id="Fuji_TV_Two" tvg-name="フジテレビTWO" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fujitwo.png" group-title="CS",フジテレビTWO
 https://nl.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 tvg-id="Fuji_Next" tvg-name="フジテレビNEXT" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fujinext.png" group-title="CS",フジテレビNEXT
+#EXTINF:-1 tvg-id="Fuji_TV_Next" tvg-name="フジテレビNEXT" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fujinext.png" group-title="CS",フジテレビNEXT
 https://nl.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.jp" tvg-name="National Geographic" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ngeo.png" group-title="CS",National Geographic
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ngeo.png" group-title="CS",National Geographic
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-#EXTINF:-1 tvg-id="History.jp" tvg-name="History" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/history.png" group-title="CS",ヒストリーチャンネル
+#EXTINF:-1 tvg-id="History_Channel" tvg-name="History" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/history.png" group-title="CS",ヒストリーチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 #EXTINF:-1 tvg-id="WOWOW_Prime" tvg-name="WOWOW Prime" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowprime.jpg" group-title="WOWOW",WOWOW Prime
 https://nl.utako.moe/wprime/index.m3u8
@@ -171,7 +171,7 @@ https://nl.utako.moe/mtv/index.m3u8
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 tvg-id="Music_On_TV" tvg-name="Music ON TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/musicon.jpg" group-title="音楽",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-name="Music Japan" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/jmusic.png" group-title="音楽",Music Japan
+#EXTINF:-1 tvg-id="Music_Japan" tvg-name="Music Japan" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/jmusic.png" group-title="音楽",Music Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="タカラヅカ・スカイ・ステージ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/takara.png" group-title="音楽",タカラヅカ・スカイ・ステージ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
