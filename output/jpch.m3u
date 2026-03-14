@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="地上波",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
@@ -16,23 +15,23 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
 #EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX1.jpg" group-title="地上波",TOKYO MX1 HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
-#EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="日本",NHKG
+#EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="地上波",NHKG
 https://nl.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/NHKE.png" group-title="日本",NHKE
+#EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/NHKE.png" group-title="地上波",NHKE
 https://nl.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 tvg-id="Nippon_TV" tvg-name="日テレ" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/ntv.png" group-title="日本",日テレ
+#EXTINF:-1 tvg-id="Nippon_TV" tvg-name="日テレ" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/ntv.png" group-title="地上波",日テレ
 https://nl.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/tbs.png" group-title="日本",TBS
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/tbs.png" group-title="地上波",TBS
 https://nl.utako.moe/TBS/index.m3u8
-#EXTINF:-1 tvg-id="Fuji_TV" tvg-name="フジテレビ" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/fuji.png" group-title="日本",フジテレビ
+#EXTINF:-1 tvg-id="Fuji_TV" tvg-name="フジテレビ" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/fuji.png" group-title="地上波",フジテレビ
 https://nl.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 tvg-id="TV_Asahi" tvg-name="テレビ朝日" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/tvasahi.png" group-title="日本",テレビ朝日
+#EXTINF:-1 tvg-id="TV_Asahi" tvg-name="テレビ朝日" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/tvasahi.png" group-title="地上波",テレビ朝日
 https://nl.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/tvtyo.jpg" group-title="日本",テレビ東京
+#EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/tvtyo.jpg" group-title="地上波",テレビ東京
 https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX1.jpg" group-title="日本",TOKYO MX1
+#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX1.jpg" group-title="地上波",TOKYO MX1
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX2.jpg" group-title="日本",TOKYO MX2
+#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX2.jpg" group-title="地上波",TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 tvg-id="TV_Osaka" tvg-name="テレビ大阪" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvosaka.png" group-title="地上波",テレビ大阪
 https://nl.utako.moe/tvo/index.m3u8
