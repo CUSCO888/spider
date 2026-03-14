@@ -1,7 +1,7 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml,https://raw.githubusercontent.com/CUSCO888/epg/master/guide.xml"
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="タカラヅカ・スカイ・ステージ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bbcnews.png" group-title="CS",BBC 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CUSCO888/epg/master/guide.xml"
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bbcnews.png" group-title="News",BBC News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 tvg-id="CNNj" tvg-name="CNNj" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/CNN.png" group-title="news",CNNj
+#EXTINF:-1 tvg-id="CNNj" tvg-name="CNNj" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/CNN.png" group-title="News",CNNj
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News",Al Jazeera
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
