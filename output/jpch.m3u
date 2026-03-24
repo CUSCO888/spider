@@ -13,9 +13,9 @@ https://nl.utako.moe/Fuji_TV/index.m3u8
 https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvtyo.jpg" group-title="地上波",テレビ東京HD
 https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX1.jpg" group-title="地上波",TOKYO MX1 HD
+#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tokyomx1.jpg" group-title="地上波",TOKYO MX1 HD
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX2.jpg" group-title="地上波",TOKYO MX2
+#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/tokyomx2.jpg" group-title="地上波",TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 tvg-id="TV_Osaka" tvg-name="テレビ大阪" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvosaka.png" group-title="地上波",テレビ大阪
 https://nl.utako.moe/tvo/index.m3u8
