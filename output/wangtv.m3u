@@ -351,6 +351,8 @@ http://m.061899.xyz/mg/cwjd
 http://m.061899.xyz/mg/hslb
 #EXTINF:-1 tvg-name="金色剧场" tvg-logo="https://live.fanmingming.cn/tv/金色剧场.png" group-title="央卫网络",金色剧场
 http://m.061899.xyz/mg/jsjc
+#EXTINF:-1 tvg-name="麻城综合" tvg-logo="https://live.fanmingming.cn/tv/麻城综合.png" group-title="📡央卫网络",麻城综合
+https://video.yscxy.cn:8888/mctv1.m3u8
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="日本",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKE.png" group-title="日本",NHKE HD
