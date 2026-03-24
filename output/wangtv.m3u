@@ -63,7 +63,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=30
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/龙华电影.png" group-title="港澳",龙华电影
 http://iptv.4666888.xyz/iptv2A.php?id=45
-
 #EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/镜新闻.png" group-title="台湾",镜新闻绿
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/民视新闻台.png" group-title="台湾",民视新闻绿
@@ -78,8 +77,6 @@ http://74.91.26.218:82/live/ctsnews.m3u8
 http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/寰宇新聞台.png" group-title="台湾",寰宇新聞台中
 https://tv.iill.top/4gtv/litv-longturn14
-
-
 #EXTINF:-1 tvg-name="民视第一" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/民视第一.png" group-title="台湾",民视第一
 http://74.91.26.218:82/live/ftvdy.m3u8
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/民视台湾.png" group-title="台湾",民视台湾
@@ -94,8 +91,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/三立新聞iNEWS.png" group-title="台湾",三立新聞绿
 http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
-
-
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/寰宇新聞台灣台.png" group-title="台湾",寰宇新聞台灣台
 http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/鏡電視新聞台.png" group-title="台湾",鏡電視新聞台
@@ -106,7 +101,6 @@ http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
 http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/民視新聞台.png" group-title="台湾",民視新聞台
 http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
-
 #EXTINF:-1 tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/東森財經新聞台.png" group-title="台湾",東森財經新聞台
 http://220.135.64.124:5050/li-4gtv-4gtv153/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/中視新聞台.png" group-title="台湾",中視新聞台
@@ -141,28 +135,23 @@ http://iptv.4666888.xyz/iptv2A.php?id=53
 http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/中视菁采.png" group-title="台湾",中视菁采
 http://74.91.26.218:82/live/ctvjc.m3u8
-
 #EXTINF:-1 tvg-name="华视体育" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/华视体育.png" group-title="台湾",华视体育
 http://74.91.26.218:82/live/ctsjy.m3u8
-
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://live.fanmingming.cn/tv/Love Nature.png" group-title="🇹🇼台湾",Love Nature
 P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts#http://tl.061833.xyz/tl/lovenaturehd
 #EXTINF:-1 tvg-name="Wild TV" tvg-logo="https://live.fanmingming.cn/tv/Wild TV.png" group-title="🇹🇼台湾",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.cn/tv/动物星球.png" group-title="🇹🇼台湾",动物星球
-
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://live.fanmingming.cn/tv/Discovery Asia.png" group-title="🇹🇼台湾",Discovery Asia
 undefined
 #EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="https://live.fanmingming.cn/tv/BBC EARTH.png" group-title="🇹🇼台湾",BBC EARTH
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="国际新闻",Al Jazeera
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishUSA.il" tvg-name="i24NEWS English USA" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/i24.png/512px-LOGO_i24NEWS.png" group-title="国际新闻",以色列i24NEWS
 https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
 #EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Newsmax.png" group-title="国际新闻",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CNN.png" group-title="国际新闻",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="国际新闻",NBC News NOW
