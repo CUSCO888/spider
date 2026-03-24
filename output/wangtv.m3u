@@ -359,22 +359,22 @@ http://m.061899.xyz/mg/jsjc
 #EXTINF:-1 tvg-name="麻城综合" tvg-logo="https://live.fanmingming.cn/tv/麻城综合.png" group-title="📡央卫网络",麻城综合
 https://video.yscxy.cn:8888/mctv1.m3u8
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="🌸日本",NHKG HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKE.png" group-title="🌸日本",NHKE HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+https://nl.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 tvg-id="Nippon_TV" tvg-name="日テレHD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ntv.png" group-title="🌸日本",日テレHD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tbs.png" group-title="🌸日本",TBS HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-id="Fuji_TV" tvg-name="フジテレビHD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fuji.png" group-title="🌸日本",フジテレビHD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-id="TV_Asahi" tvg-name="テレビ朝日HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvasahi.png" group-title="🌸日本",テレビ朝日HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvtyo.jpg" group-title="🌸日本",テレビ東京HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
-#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX1.jpg" group-title="🌸日本",TOKYO MX1 HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
-#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX2.jpg" group-title="🌸日本",TOKYO MX2
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tokyommx1.jpg" group-title="🌸日本",TOKYO MX1 HD
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/tokyommx2.jpg" group-title="🌸日本",TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 tvg-id="TV_Osaka" tvg-name="テレビ大阪" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvosaka.png" group-title="🌸日本",テレビ大阪
 https://nl.utako.moe/tvo/index.m3u8
