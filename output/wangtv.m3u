@@ -137,11 +137,8 @@ http://74.91.26.218:82/live/ctvjd.m3u8
 http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 tvg-name="华视体育" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/华视体育.png" group-title="🇹🇼台湾",华视体育
 http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://live.fanmingming.cn/tv/Love Nature.png" group-title="🇹🇼台湾",Love Nature
-P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts#http://tl.061833.xyz/tl/lovenaturehd
 #EXTINF:-1 tvg-name="Wild TV" tvg-logo="https://live.fanmingming.cn/tv/Wild TV.png" group-title="🇹🇼台湾",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.cn/tv/动物星球.png" group-title="🇹🇼台湾",动物星球
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://live.fanmingming.cn/tv/Discovery Asia.png" group-title="🇹🇼台湾",Discovery Asia
 https://hls.iill.top/api/Discovery/index.m3u8
 #EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="https://live.fanmingming.cn/tv/BBC EARTH.png" group-title="🇹🇼台湾",BBC EARTH
