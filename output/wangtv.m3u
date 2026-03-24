@@ -143,7 +143,7 @@ P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts#http://tl.061833.xyz
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.cn/tv/动物星球.png" group-title="🇹🇼台湾",动物星球
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://live.fanmingming.cn/tv/Discovery Asia.png" group-title="🇹🇼台湾",Discovery Asia
-undefined
+https://hls.iill.top/api/Discovery/index.m3u8
 #EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="https://live.fanmingming.cn/tv/BBC EARTH.png" group-title="🇹🇼台湾",BBC EARTH
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="🌏国际新闻",Al Jazeera
@@ -158,7 +158,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-id="OAN.us" tvg-name="W14DK-D5" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/oan.png" group-title="🌏国际新闻",OAN
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:-1 tvg-name="News max" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Newsmax.png" group-title="🌏国际新闻",News max
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/gbn.png" group-title="🌏国际新闻",GB News
 https://amg01076-lightningintern-gbnewsnz-samsungnz-rlcsd.amagi.tv/playlist/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="🌏国际新闻",BBC News
