@@ -30,21 +30,21 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/ts-us-
 #EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/MLB_NETWORK.png" group-title="News",MLB_NETWORK
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="地上波",NHKG HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKE.png" group-title="地上波",NHKE HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+https://nl.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 tvg-id="Nippon_TV" tvg-name="日テレHD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ntv.png" group-title="地上波",日テレHD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tbs.png" group-title="地上波",TBS HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-id="Fuji_TV" tvg-name="フジテレビHD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fuji.png" group-title="地上波",フジテレビHD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-id="TV_Asahi" tvg-name="テレビ朝日HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvasahi.png" group-title="地上波",テレビ朝日HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvtyo.jpg" group-title="地上波",テレビ東京HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
+https://nl.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX1.jpg" group-title="地上波",TOKYO MX1 HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 tvg-id="Tokyo_MX2" tvg-name="TOKYO MX2" tvg-logo=https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX2.jpg" group-title="地上波",TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 tvg-id="TV_Osaka" tvg-name="テレビ大阪" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvosaka.png" group-title="地上波",テレビ大阪
@@ -79,8 +79,6 @@ https://nl.utako.moe/bs10_star/index.m3u8
 https://nl.utako.moe/BS11/index.m3u8
 #EXTINF:-1 tvg-id="NHK_BS4K" tvg-name="NHK BS4K" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS4K.jpg" group-title="BS",NHK BS4K
 https://nl.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 tvg-id="Tsuri" tvg-name="tsuri" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tsuri.png" group-title="BS",釣りCH
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 #EXTINF:-1 tvg-id="Nittele_G_plus" tvg-name="日テレ G+" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ntvg.jpg" group-title="スポーツ",日テレ G+
 https://nl.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 tvg-id="TBS_Ch1" tvg-name="TBS Ch1" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tbsch1.jpg" group-title="CS",TBS Channel 1
@@ -97,10 +95,6 @@ https://nl.utako.moe/fuji_one/index.m3u8
 https://nl.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 tvg-id="Fuji_TV_Next" tvg-name="フジテレビNEXT" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fujinext.png" group-title="CS",フジテレビNEXT
 https://nl.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ngeo.png" group-title="CS",National Geographic
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-#EXTINF:-1 tvg-id="History_Channel" tvg-name="History" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/history.png" group-title="CS",ヒストリーチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 #EXTINF:-1 tvg-id="WOWOW_Prime" tvg-name="WOWOW Prime" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowprime.jpg" group-title="WOWOW",WOWOW Prime
 https://nl.utako.moe/wprime/index.m3u8
 #EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowcinema.jpg" group-title="WOWOW",WOWOW Cinema
@@ -153,8 +147,6 @@ https://nl.utako.moe/toei/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 #EXTINF:-1 tvg-id="Nihon_Eiga_Special" tvg-name="日本映画専門" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/nihoneiga.jpg" group-title="映画",日本映画専門
 https://nl.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 tvg-id="BS_Shochiku_Tokyu" tvg-name="BS松竹東急" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/shochiku.png" group-title="映画",松竹東急
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/animax.jpg" group-title="アニメ",Animax
 https://nl.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-id="AT_X" tvg-name="AT-X" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/at-x.jpg" group-title="アニメ",AT-X
@@ -171,10 +163,6 @@ https://nl.utako.moe/mtv/index.m3u8
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 tvg-id="Music_On_TV" tvg-name="Music ON TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/musicon.jpg" group-title="音楽",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
-#EXTINF:-1 tvg-id="Music_Japan" tvg-name="Music Japan" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/jmusic.png" group-title="音楽",Music Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="タカラヅカ・スカイ・ステージ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/takara.png" group-title="音楽",タカラヅカ・スカイ・ステージ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1 tvg-id="QVC_Japan" tvg-name="QVC Japan" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/QVC.png" group-title="ショッピング",QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-id="Shop_Channel" tvg-name="ショップチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/shoppingch.png" group-title="ショッピング",ショップチャンネル
