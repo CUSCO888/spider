@@ -147,8 +147,6 @@ https://nl.utako.moe/toei/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 #EXTINF:-1 tvg-id="Nihon_Eiga_Special" tvg-name="日本映画専門" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/nihoneiga.jpg" group-title="映画",日本映画専門
 https://nl.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 tvg-id="the_cinema" tvg-name="The_Cinema" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/thecinema.png" group-title="CS音楽",The Cinema
-https://nl.utako.moe/the_cinema/index.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/animax.jpg" group-title="アニメ",Animax
 https://nl.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-id="AT_X" tvg-name="AT-X" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/at-x.jpg" group-title="アニメ",AT-X
