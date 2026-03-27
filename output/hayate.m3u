@@ -147,6 +147,8 @@ https://nl.utako.moe/toei/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 #EXTINF:-1 tvg-id="Nihon_Eiga_Special" tvg-name="日本映画専門" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/nihoneiga.jpg" group-title="映画",日本映画専門
 https://nl.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 tvg-id="the_cinema" tvg-name="The_Cinema" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/thecinema.png" group-title="CS音楽",The Cinema
+https://nl.utako.moe/the_cinema/index.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/animax.jpg" group-title="アニメ",Animax
 https://nl.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-id="AT_X" tvg-name="AT-X" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/at-x.jpg" group-title="アニメ",AT-X
@@ -163,6 +165,8 @@ https://nl.utako.moe/mtv/index.m3u8
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 tvg-id="Music_On_TV" tvg-name="Music ON TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/musicon.jpg" group-title="音楽",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
+#EXTINF:-1 tvg-id="mnet" tvg-name="Mnet" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/mnet.png" group-title="CS映画",Mnet
+https://nl.utako.moe/mnet/index.m3u8
 #EXTINF:-1 tvg-id="QVC_Japan" tvg-name="QVC Japan" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/QVC.png" group-title="ショッピング",QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-id="Shop_Channel" tvg-name="ショップチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/shoppingch.png" group-title="ショッピング",ショップチャンネル
