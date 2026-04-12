@@ -493,55 +493,55 @@ https://nl.utako.moe/mnet/index.m3u8
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="gakinotsukai" tvg-name="gakinotsukai" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/gakinotsukai.png" group-title="👘日本文化",ガキの使い
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/beinsports1.png" group-title="sports",Bein Sports 1
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/beinsports1.png" group-title="⚽️sports",Bein Sports 1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/beinsports2.png" group-title="sports",Bein Sports 2
+#EXTINF:-1 tvg-name="Bein Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/beinsports2.png" group-title="⚽️sports",Bein Sports 2
 https://hls.iill.top/api/beIN-Sports-2/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/beinsports3.png" group-title="sports",Bein Sports 3
+#EXTINF:-1 tvg-name="Bein Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/beinsports3.png" group-title="⚽️sports",Bein Sports 3
 https://hls.iill.top/api/beIN-Sports-3/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="sports",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="⚽️sports",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SPOTV1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/spotv1.png" group-title="sports",SPOTV1
+#EXTINF:-1 tvg-name="SPOTV1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/spotv1.png" group-title="⚽️sports",SPOTV1
 https://hls.iill.top/api/Spotv-1/index.m3u8
-#EXTINF:-1 tvg-name="SPOTV2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/spotv2.png" group-title="sports",SPOTV2
+#EXTINF:-1 tvg-name="SPOTV2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/spotv2.png" group-title="⚽️sports",SPOTV2
 https://hls.iill.top/api/Spotv-2/index.m3u8
-#EXTINF:-1 tvg-name="SPOTV3" tvg-logo="cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/spotv3.png" group-title="sports",SPOTV3
+#EXTINF:-1 tvg-name="SPOTV3" tvg-logo="cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/spotv3.png" group-title="⚽️sports",SPOTV3
 https://hls.iill.top/api/Spotv-3/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports1.png" group-title="sports",Fox Sports 1
+#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports1.png" group-title="⚽️sports",Fox Sports 1
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3645.ts
-#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports2.png" group-title="sports",Fox Sports 2
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports2.png" group-title="⚽️sports",Fox Sports 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2500.ts
-#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports2.png" group-title="sports",Fox Sports 2 360p
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports2.png" group-title="⚽️sports",Fox Sports 2 360p
 https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/espn.png" group-title="sports",ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/espn.png" group-title="⚽️sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/espn2.png" group-title="sports",ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/espn2.png" group-title="⚽️sports",ESPN 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3637.ts
-#EXTINF:-1 tvg-id="NBCSportsNOW.us" tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="sports",NBC Sports NOW
+#EXTINF:-1 tvg-id="NBCSportsNOW.us" tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="⚽️sports",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-name="30A Golf Kingdom" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="sports",30A Golf Kingdom
+#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-name="30A Golf Kingdom" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="⚽️sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png" group-title="sports",Golf Channel
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png" group-title="⚽️sports",Golf Channel
 https://tvpass.org/live/GolfChannel/hd
-#EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="sports",PGA Tour
+#EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="⚽️sports",PGA Tour
 https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="sports",MLB
+#EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="⚽️sports",MLB
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MLB_NETWORK.png" group-title="sports",MLB_NETWORK
+#EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MLB_NETWORK.png" group-title="⚽️sports",MLB_NETWORK
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="sports",FIFA+
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="⚽️sports",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="ProSportIntl" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/psi.png" group-title="sports",PRO SPORTS INTL
+#EXTINF:-1 tvg-name="ProSportIntl" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/psi.png" group-title="⚽️sports",PRO SPORTS INTL
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/wpt.png" group-title="sports",World Poker Tour
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/wpt.png" group-title="⚽️sports",World Poker Tour
 https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PokerGo.us" tvg-name="PokerGo" tvg-logo="https://i.imgur.com/1603HED.png" group-title="sports",PokerGo
+#EXTINF:-1 tvg-id="PokerGo.us" tvg-name="PokerGo" tvg-logo="https://i.imgur.com/1603HED.png" group-title="⚽️sports",PokerGo
 https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8
-#EXTINF:-1 tvg-id="ChefChampion.us" tvg-name="Chef Champion" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="cooking",Chef Champion
+#EXTINF:-1 tvg-id="ChefChampion.us" tvg-name="Chef Champion" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="🍔Cooking",Chef Champion
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
-#EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appetit" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="cooking",bon appetit
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appetit" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="🍔Cooking",bon appetit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="cooking",Tastemade
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="🍔Cooking",Tastemade
 https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8
-#EXTINF:-1 tvg-id="MadDogandMerrill.us" tvg-name="Mad Dog and Merrill" tvg-logo="https://i.imgur.com/5QQy3aW.png" group-title="cooking",Mad Dog and Merrill
+#EXTINF:-1 tvg-id="MadDogandMerrill.us" tvg-name="Mad Dog and Merrill" tvg-logo="https://i.imgur.com/5QQy3aW.png" group-title="🍔Cooking",Mad Dog and Merrill
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
