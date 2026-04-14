@@ -27,7 +27,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3637.ts
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-name="30A Golf Kingdom" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="⚽️sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/golfchannel.png" group-title="⚽️sports",Golf Channel
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/golfchannel.png" group-title="⚽️sports",Golf Channel
 https://tvpass.org/live/GolfChannel/hd
 #EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="⚽️sports",PGA Tour
 https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
@@ -35,7 +35,7 @@ https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playl
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/MLB_NETWORK.png" group-title="⚽️sports",MLB_NETWORK
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fifaplus.png" group-title="⚽️sports",FIFA+
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/fifaplus.png" group-title="⚽️sports",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="ProSportIntl" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/psi.png" group-title="⚽️sports",PRO SPORTS INTL
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
