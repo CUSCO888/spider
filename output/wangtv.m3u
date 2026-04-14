@@ -505,8 +505,6 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 https://hls.iill.top/api/Spotv-1/index.m3u8
 #EXTINF:-1 tvg-name="SPOTV2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/spotv2.png" group-title="⚽️sports",SPOTV2
 https://hls.iill.top/api/Spotv-2/index.m3u8
-#EXTINF:-1 tvg-name="SPOTV3" tvg-logo="cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/spotv3.png" group-title="⚽️sports",SPOTV3
-https://hls.iill.top/api/Spotv-3/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports1.png" group-title="⚽️sports",Fox Sports 1
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3645.ts
 #EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports2.png" group-title="⚽️sports",Fox Sports 2
@@ -543,6 +541,8 @@ rtmp://f13h.mine.nu/sat/tv721
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="ELEVEN体育2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/eleven2.png" group-title="⚽️sports",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-name="智林體育" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/zhilin.png" group-title="⚽️sports",智林體育
+http://iptv.4666888.xyz/iptv2A.php?id=5
 #EXTINF:-1 tvg-name="tracesport" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tracesport.png" group-title="⚽️sports",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="ChefChampion.us" tvg-name="Chef Champion" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="🍔Cooking",Chef Champion
