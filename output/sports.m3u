@@ -43,12 +43,6 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us" tvg-name="PokerGo" tvg-logo="https://i.imgur.com/1603HED.png" group-title="⚽️sports",PokerGo
 https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/vlsports.png" tvg-name="纬来体育" group-title="⚽️sports",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-name="ELEVEN体育1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/eleven1.png" group-title="⚽️sports",ELEVEN体育1
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-name="ELEVEN体育2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/eleven2.png" group-title="⚽️sports",ELEVEN体育2
-rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-name="智林體育" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/zhilin.png" group-title="⚽️sports",智林體育
 http://iptv.4666888.xyz/iptv2A.php?id=5
 #EXTINF:-1 tvg-name="tracesport" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/tracesport.png" group-title="⚽️sports",Trace Sport
