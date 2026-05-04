@@ -506,7 +506,7 @@ https://hls.iill.top/api/Spotv-1/index.m3u8
 #EXTINF:-1 tvg-name="SPOTV2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/spotv2.png" group-title="⚽️sports",SPOTV2
 https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports1.png" group-title="⚽️sports",Fox Sports 1
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3645.ts
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports2.png" group-title="⚽️sports",Fox Sports 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2500.ts
 #EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/foxsports2.png" group-title="⚽️sports",Fox Sports 2 360p
