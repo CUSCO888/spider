@@ -393,7 +393,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 tvg-id="BS_NTV" tvg-name="BS日テレ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BSntv.png" group-title="🌸日本",BS日テレ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 tvg-id="Nittele_G_plus" tvg-name="日テレ G+" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ntvg.jpg" group-title="🌸日本",日テレ G+
+#EXTINF:-1 tvg-id="Nittele_G_plus" tvg-name="日テレ G+" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ntvg.png" group-title="🌸日本",日テレ G+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 #EXTINF:-1 tvg-id="BS_Asahi" tvg-name="BS朝日" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BSasahi.jpg" group-title="🌸日本",BS朝日
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
@@ -407,7 +407,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 #EXTINF:-1 tvg-id="Fuji_Next" tvg-name="フジテレビNEXT" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fujinext.png" group-title="🌸日本",フジテレビNEXT
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="タカラヅカ・スカイ・ステージ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bbcnews.png" group-title="🌸日本",BBC 
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bbcnews.png" group-title="🌸日本",BBC 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="CNNj" tvg-name="CNNj" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/CNN.png" group-title="🌸日本",CNNj
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
@@ -441,7 +441,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 #EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowlive.jpg" group-title="🌸日本",WOWOW Live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowcinema.jpg" group-title="WOWOW",WOWOW Cinema
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowcinema.jpg" group-title="🌸日本",WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="JSport 1" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports1.png" group-title="🌸日本",JSport 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
@@ -453,7 +453,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 tvg-id="Golf_Network" tvg-name="ゴルフネットワーク" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/golfnetwork.jpg" group-title="🌸日本",ゴルフネットワーク
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 tvg-id="GAORA" tvg-name="Gaora Sports" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/GAORA_SPORTS.png" group-title="CSスポーツ",Gaora Sports
+#EXTINF:-1 tvg-id="GAORA" tvg-name="Gaora Sports" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/GAORA_SPORTS.png" group-title="🌸日本",Gaora Sports
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 tvg-id="GreenChannel.jp" tvg-name="グリーンチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/green.png" group-title="🌸日本",グリーンチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
