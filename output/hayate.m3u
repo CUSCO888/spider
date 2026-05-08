@@ -79,15 +79,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ngeo.png" group-title="CS",National Geographic
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-EXTINF:-1 tvg-id="TBS_News" tvg-name="Music Japan" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tbsnews.png" group-title="CS",TBS News
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:-1 tvg-id="Tabi_Ch" tvg-name="旅" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tabi.png" group-title="CS",旅チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 #EXTINF:-1 tvg-id="Kayo_Pops" tvg-name="歌谣ポップス" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/pops.png" group-title="CS",歌谣ポップス
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 #EXTINF:-1 tvg-id="Movie_Plus" tvg-name="Movie_Plus" group-title="CS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/movie+.png",ムービープラス
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="タカラヅカ・スカイ・ステージ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bbcnews.png" group-title="CS",BBC 
+#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="タカラヅカ・スカイ・ステージ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bbcnews.png" group-title="CS",BBC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="CNNj" tvg-name="CNNj" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/CNN.png" group-title="CS",CNNj
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
@@ -147,8 +145,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 #EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowlive.jpg" group-title="BS",WOWOW Live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-EXTINF:-1 tvg-id="J_SPORTS_3" tvg-name="JSport 3" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports3.png" group-title="BS",JSport 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="JSport 4" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports4.jpg" group-title="BS",JSport 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 tvg-id="Nihon_Eiga_Special" tvg-name="日本映画専門" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/nihoneiga.jpg" group-title="BS",日本映画専門
@@ -175,4 +171,3 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-dt="42" tvg-id="rch_42" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="RAKUTEN",映画（R15+）
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
-
