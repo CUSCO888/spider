@@ -55,9 +55,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 #EXTINF:-1 tvg-id="Kansai_TV" tvg-name="関西テレビ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/kansai.jpg" group-title="地上波",関西テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
-#EXTINF:-1 group-title="地上波" tvg-id="KBS_Kyoto" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Kbs.png" group-title="地上波",KBS京都
+#EXTINF:-1 tvg-id="NHKG" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="地上波",NHKG関西
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 group-title="地上波" tvg-id="Sun_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/SUN.png" group-title="地上波",サンテレビ
+#EXTINF:-1 tvg-id="Sun_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/SUN.png" group-title="地上波",サンテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 #EXTINF:-1 tvg-id="Sky_A" tvg-name="スカイA" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/skyA.jpg" group-title="CS",スカイA
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
