@@ -1,0 +1,163 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CUSCO888/epg/master/guide.xml"
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bbcnews.png" group-title="News",BBC News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 tvg-id="CNNj" tvg-name="CNNj" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/CNN.png" group-title="News",CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News",Al Jazeera
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishUSA.il" tvg-name="i24NEWS English USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",i24NEWS
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
+#EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Newsmax.png" group-title="News",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/CNN.png" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="News",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News
+https://amg01076-lightningintern-gbnewsnz-samsungnz-rlcsd.amagi.tv/playlist/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png" group-title="News",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-name="WionNews" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/WionNews.png" group-title="News",WionNews
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BLOOMBERG.png" group-title="News",BLOOMBERG
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" group-title="News",Yahoo! Finance
+https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="News",Reuters TV
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name="MLB_NETWORK" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/MLB_NETWORK.png" group-title="News",MLB_NETWORK
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+#EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="地上波",NHKG HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+#EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKE.png" group-title="地上波",NHKE HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+#EXTINF:-1 tvg-id="Nippon_TV" tvg-name="日テレHD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ntv.png" group-title="地上波",日テレHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tbs.png" group-title="地上波",TBS HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+#EXTINF:-1 tvg-id="Fuji_TV" tvg-name="フジテレビHD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fuji.png" group-title="地上波",フジテレビHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+#EXTINF:-1 tvg-id="TV_Asahi" tvg-name="テレビ朝日HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvasahi.png" group-title="地上波",テレビ朝日HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+#EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="テレビ東京HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvtyo.jpg" group-title="地上波",テレビ東京HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
+#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1 HD" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Tokyo MX1.jpg" group-title="地上波",TOKYO MX1 HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
+#EXTINF:-1 group-title="地上波" tvg-id="MBS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Mainichi.png" group-title="地上波",MBS毎日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 group-title="地上波" tvg-id="ABC_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ABCAsahi.png" group-title="地上波",ABC朝日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 tvg-id="TV_Osaka" tvg-name="テレビ大阪" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tvosaka.png" group-title="地上波",テレビ大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-1 tvg-id="Yomiuri_TV" tvg-name="読売テレビ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ytv.png" group-title="地上波",読売テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 tvg-id="Kansai_TV" tvg-name="関西テレビ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/kansai.jpg" group-title="地上波",関西テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+#EXTINF:-1 tvg-id="NHKG" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKG.png" group-title="地上波",NHKG関西
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 tvg-id="Sun_TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/SUN.png" group-title="地上波",サンテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 tvg-id="Sky_A" tvg-name="スカイA" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/skyA.jpg" group-title="CS",スカイA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 tvg-id="Nittele_G_plus" tvg-name="日テレ G+" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ntvg.jpg" group-title="CS",日テレ G+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 tvg-id="Golf_Network" tvg-name="ゴルフネットワーク" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/golfnetwork.jpg" group-title="CS",ゴルフネットワーク
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 tvg-id="JidaiGeki" tvg-name="時代劇専門" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/jidaigeki.png" group-title="CS",時代劇専門
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-1 tvg-id="Home_Drama_Channel" tvg-name="ホームドラマチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/homedrama.jpg" group-title="CS",ホームドラマチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1 tvg-id="Music_Japan" tvg-name="Music Japan" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/jmusic.png" group-title="CS",Music Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 tvg-id="Kids_Station" tvg-name="キッズステーション" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/kidstn.jpg" group-title="CS",キッズステーション
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 tvg-id="Discovery_Channel" tvg-name="Music Japan" tvg-logo="https://iptvlogo.pages.dev/tv/DiscoveryHD.png"group-title="CS",ディスカバリー
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 tvg-id="History_Channel" tvg-name="History" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/history.png" group-title="CS",ヒストリーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ngeo.png" group-title="CS",National Geographic
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 tvg-id="Tabi_Ch" tvg-name="旅" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tabi.png" group-title="CS",旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-1 tvg-id="Kayo_Pops" tvg-name="歌谣ポップス" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/pops.png" group-title="CS",歌谣ポップス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 tvg-id="Movie_Plus" tvg-name="Movie_Plus" group-title="CS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/movie+.png",ムービープラス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="タカラヅカ・スカイ・ステージ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bbcnews.png" group-title="CS",BBC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 tvg-id="CNNj" tvg-name="CNNj" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/CNN.png" group-title="CS",CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1 tvg-id="GAORA" tvg-name="Gaora Sports" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/GAORA_SPORTS.png" group-title="CSスポーツ",Gaora Sports
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 tvg-id="MTV_Japan" tvg-name="MTV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/MTV.jpg" group-title="CS",MTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 tvg-id="LaLaTV" tvg-name="LaLaTV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/lalatv.png" group-title="CS",LaLa TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+#EXTINF:-1 tvg-id="Family_Gekijyo" tvg-name="ファミリー劇場" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/familygeki.jpg" group-title="CS",ファミリー劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 tvg-id="Monodo_TV" tvg-name="Mondo TV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/mondotv.jpg" group-title="CS",Mondo TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1 tvg-id="EiseiGekijo.jp" tvg-name="衛星劇場" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/eisei.png" group-title="CS",衛星劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 tvg-id="Disney_Jr" tvg-name="disneyJr" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/disneyjr.png" group-title="CS",Disney Jr
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/ap.png" group-title="CS",Animal Planet
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+#EXTINF:-1 tvg-id="Cartoon_Network" tvg-name="Cartoon Network" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Cartoon-Network.png" group-title="CS",Cartoon Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 tvg-id="Fuji_Next" tvg-name="フジテレビNEXT" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/fujinext.png" group-title="CS",フジテレビNEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="東映ch" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/toei.png" group-title="CS",東映ch
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="タカラヅカ・スカイ・ステージ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/takara.png"group-title="CS",タカラヅカ・スカイ・ステージ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 tvg-id="Channel_Ginga" tvg-name="チャンネル银河" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/chginga.jpg" group-title="CS",チャンネル银河
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 tvg-id="NHK_BS4K" tvg-name="NHK BS4K" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS4K.jpg" group-title="BS",NHK BS4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 tvg-id="BS_NTV" tvg-name="BS日テレ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BSntv.png" group-title="BS",BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 tvg-id="BS_Asahi" tvg-name="BS朝日" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BSasahi.jpg" group-title="BS",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 tvg-id="BS_TBS" tvg-name="BS TBS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/bstbs.jpg" group-title="BS",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 tvg-id="BS_TVTokyo" tvg-name="BSテレ東" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BStyo.jpg" group-title="BS",BSテレ東
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1 tvg-id="BS_Fuji" tvg-name="BSフジ" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BSfuji.png" group-title="BS",BSフジ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowcinema.jpg" group-title="WOWOW",WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 tvg-id="BS10" tvg-name="BS 10 Premium" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/BS10pre.jpg" group-title="BS",BS10 Premium
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 tvg-id="BS11" tvg-name="NHK_BS" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/NHKBS.png" group-title="BS",NHKBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-name="WOWOW Prime" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowprime.jpg" group-title="BS",WOWOW Prime
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 tvg-id="GreenChannel.jp" tvg-name="グリーンチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/green.png" group-title="BS",グリーンチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/animax.jpg" group-title="BS",Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="JSport 1" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports1.png" group-title="BS",JSport 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 tvg-id="J_SPORTS_2" tvg-name="JSport 2" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports2.png" group-title="BS",JSport 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/wowowlive.jpg" group-title="BS",WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="JSport 4" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/Jsports4.jpg" group-title="BS",JSport 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 tvg-id="Nihon_Eiga_Special" tvg-name="日本映画専門" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/nihoneiga.jpg" group-title="BS",日本映画専門
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 tvg-id="Disney_Channel" tvg-name="ディズニーチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/disney.jpg" group-title="BS",ディズニーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 tvg-id="Tsuri" tvg-name="tsuri" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/tsuri.png" group-title="BS",釣りCH
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 tvg-id="Space_Shower_TV" tvg-name="スペースシャワーTV" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/spaceshower.jpg" group-title="BS",Space Shower TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 tvg-id="BS_Shochiku_Tokyu" tvg-name="BS松竹東急" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/shochiku.png" group-title="BS",BS松竹東急
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+#EXTINF:-1 tvg-id="QVC_Japan" tvg-name="QVC Japan" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/QVC.png" group-title="ショッピング",QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-id="Shop_Channel" tvg-name="ショップチャンネル" tvg-logo="https://iptvlogo.pages.dev/tv/JLogo/shoppingch.png" group-title="ショッピング",ショップチャンネル
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
