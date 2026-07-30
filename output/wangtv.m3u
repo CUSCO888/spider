@@ -9,8 +9,6 @@ http://c.123.rr.kg/163189/fhhk
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/绍兴/电信
 #EXTINF:-1 tvg-id="星空国际" tvg-name="星空国际" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="🇭🇰港澳",星空国际
 http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-#EXTINF:-1 tvg-id="澳门卫视" tvg-name="澳门卫视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="🇭🇰港澳",澳门卫视
-ttps://cdn.qd.je/163189.php?id=as
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/澳视澳门.png" group-title="🇭🇰港澳",澳视澳门
 https://cdn.qd.je/163189.php?id=asam
 #EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="🇭🇰港澳",TVB无线星河
